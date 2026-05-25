@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor / IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS / temp
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Local-only experiments
+docs/v1/events.local.json
+*.bak

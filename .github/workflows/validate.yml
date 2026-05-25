@@ -1,0 +1,45 @@
+# Validate every push by parsing docs/v1/events.json. Catches a typo'd
+# direct web-UI edit before the broken payload reaches iOS clients.
+name: validate
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  validate-json:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Validate events.json is well-formed
+        run: python -m json.tool docs/v1/events.json > /dev/null
+      - name: Validate schema_version and key presence
+        run: |
+          python <<'PY'
+          import json, sys
+          with open("docs/v1/events.json") as f:
+              env = json.load(f)
+          missing = [k for k in ("schema_version", "generated_at", "events") if k not in env]
+          if missing:
+              print(f"FAIL: missing top-level key(s): {missing}", file=sys.stderr)
+              sys.exit(1)
+          if env["schema_version"] != 1:
+              print(f"FAIL: schema_version != 1 (got {env['schema_version']})", file=sys.stderr)
+              sys.exit(1)
+          for i, ev in enumerate(env["events"]):
+              for k in ("event_id", "event_date", "event_name", "event_desc",
+                        "event_location", "more_info"):
+                  if k not in ev:
+                      print(f"FAIL: events[{i}] missing key {k!r}", file=sys.stderr)
+                      sys.exit(1)
+              if not isinstance(ev["event_id"], int):
+                  print(f"FAIL: events[{i}].event_id is not int: {ev['event_id']!r}", file=sys.stderr)
+                  sys.exit(1)
+          print(f"OK — {len(env['events'])} events validated.")
+          PY

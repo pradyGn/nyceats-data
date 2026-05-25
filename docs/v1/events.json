@@ -1,0 +1,1447 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-05-25T03:47:31Z",
+  "ttl_seconds": 600,
+  "events": [
+    {
+      "event_id": 1,
+      "event_date": "2026-01-20",
+      "event_name": "NYC Restaurant Week (Winter 2026)",
+      "event_desc": "Citywide prix-fixe dining program with 2-course lunches and 3-course dinners at $30, $45, and $60.",
+      "event_location": "Various participating restaurants across New York City",
+      "more_info": "official page: https://www.nyctourism.com/restaurant-week/"
+    },
+    {
+      "event_id": 1,
+      "event_date": "2026-01-21",
+      "event_name": "NYC Restaurant Week (Winter 2026)",
+      "event_desc": "Citywide prix-fixe dining program with 2-course lunches and 3-course dinners at $30, $45, and $60.",
+      "event_location": "Various participating restaurants across New York City",
+      "more_info": "official page: https://www.nyctourism.com/restaurant-week/"
+    },
+    {
+      "event_id": 1,
+      "event_date": "2026-01-22",
+      "event_name": "NYC Restaurant Week (Winter 2026)",
+      "event_desc": "Citywide prix-fixe dining program with 2-course lunches and 3-course dinners at $30, $45, and $60.",
+      "event_location": "Various participating restaurants across New York City",
+      "more_info": "official page: https://www.nyctourism.com/restaurant-week/"
+    },
+    {
+      "event_id": 1,
+      "event_date": "2026-01-23",
+      "event_name": "NYC Restaurant Week (Winter 2026)",
+      "event_desc": "Citywide prix-fixe dining program with 2-course lunches and 3-course dinners at $30, $45, and $60.",
+      "event_location": "Various participating restaurants across New York City",
+      "more_info": "official page: https://www.nyctourism.com/restaurant-week/"
+    },
+    {
+      "event_id": 1,
+      "event_date": "2026-01-24",
+      "event_name": "NYC Restaurant Week (Winter 2026)",
+      "event_desc": "Citywide prix-fixe dining program with 2-course lunches and 3-course dinners at $30, $45, and $60.",
+      "event_location": "Various participating restaurants across New York City",
+      "more_info": "official page: https://www.nyctourism.com/restaurant-week/"
+    },
+    {
+      "event_id": 1,
+      "event_date": "2026-01-25",
+      "event_name": "NYC Restaurant Week (Winter 2026)",
+      "event_desc": "Citywide prix-fixe dining program with 2-course lunches and 3-course dinners at $30, $45, and $60.",
+      "event_location": "Various participating restaurants across New York City",
+      "more_info": "official page: https://www.nyctourism.com/restaurant-week/"
+    },
+    {
+      "event_id": 1,
+      "event_date": "2026-01-26",
+      "event_name": "NYC Restaurant Week (Winter 2026)",
+      "event_desc": "Citywide prix-fixe dining program with 2-course lunches and 3-course dinners at $30, $45, and $60.",
+      "event_location": "Various participating restaurants across New York City",
+      "more_info": "official page: https://www.nyctourism.com/restaurant-week/"
+    },
+    {
+      "event_id": 1,
+      "event_date": "2026-01-27",
+      "event_name": "NYC Restaurant Week (Winter 2026)",
+      "event_desc": "Citywide prix-fixe dining program with 2-course lunches and 3-course dinners at $30, $45, and $60.",
+      "event_location": "Various participating restaurants across New York City",
+      "more_info": "official page: https://www.nyctourism.com/restaurant-week/"
+    },
+    {
+      "event_id": 1,
+      "event_date": "2026-01-28",
+      "event_name": "NYC Restaurant Week (Winter 2026)",
+      "event_desc": "Citywide prix-fixe dining program with 2-course lunches and 3-course dinners at $30, $45, and $60.",
+      "event_location": "Various participating restaurants across New York City",
+      "more_info": "official page: https://www.nyctourism.com/restaurant-week/"
+    },
+    {
+      "event_id": 1,
+      "event_date": "2026-01-29",
+      "event_name": "NYC Restaurant Week (Winter 2026)",
+      "event_desc": "Citywide prix-fixe dining program with 2-course lunches and 3-course dinners at $30, $45, and $60.",
+      "event_location": "Various participating restaurants across New York City",
+      "more_info": "official page: https://www.nyctourism.com/restaurant-week/"
+    },
+    {
+      "event_id": 1,
+      "event_date": "2026-01-30",
+      "event_name": "NYC Restaurant Week (Winter 2026)",
+      "event_desc": "Citywide prix-fixe dining program with 2-course lunches and 3-course dinners at $30, $45, and $60.",
+      "event_location": "Various participating restaurants across New York City",
+      "more_info": "official page: https://www.nyctourism.com/restaurant-week/"
+    },
+    {
+      "event_id": 1,
+      "event_date": "2026-01-31",
+      "event_name": "NYC Restaurant Week (Winter 2026)",
+      "event_desc": "Citywide prix-fixe dining program with 2-course lunches and 3-course dinners at $30, $45, and $60.",
+      "event_location": "Various participating restaurants across New York City",
+      "more_info": "official page: https://www.nyctourism.com/restaurant-week/"
+    },
+    {
+      "event_id": 1,
+      "event_date": "2026-02-01",
+      "event_name": "NYC Restaurant Week (Winter 2026)",
+      "event_desc": "Citywide prix-fixe dining program with 2-course lunches and 3-course dinners at $30, $45, and $60.",
+      "event_location": "Various participating restaurants across New York City",
+      "more_info": "official page: https://www.nyctourism.com/restaurant-week/"
+    },
+    {
+      "event_id": 1,
+      "event_date": "2026-02-02",
+      "event_name": "NYC Restaurant Week (Winter 2026)",
+      "event_desc": "Citywide prix-fixe dining program with 2-course lunches and 3-course dinners at $30, $45, and $60.",
+      "event_location": "Various participating restaurants across New York City",
+      "more_info": "official page: https://www.nyctourism.com/restaurant-week/"
+    },
+    {
+      "event_id": 1,
+      "event_date": "2026-02-03",
+      "event_name": "NYC Restaurant Week (Winter 2026)",
+      "event_desc": "Citywide prix-fixe dining program with 2-course lunches and 3-course dinners at $30, $45, and $60.",
+      "event_location": "Various participating restaurants across New York City",
+      "more_info": "official page: https://www.nyctourism.com/restaurant-week/"
+    },
+    {
+      "event_id": 1,
+      "event_date": "2026-02-04",
+      "event_name": "NYC Restaurant Week (Winter 2026)",
+      "event_desc": "Citywide prix-fixe dining program with 2-course lunches and 3-course dinners at $30, $45, and $60.",
+      "event_location": "Various participating restaurants across New York City",
+      "more_info": "official page: https://www.nyctourism.com/restaurant-week/"
+    },
+    {
+      "event_id": 1,
+      "event_date": "2026-02-05",
+      "event_name": "NYC Restaurant Week (Winter 2026)",
+      "event_desc": "Citywide prix-fixe dining program with 2-course lunches and 3-course dinners at $30, $45, and $60.",
+      "event_location": "Various participating restaurants across New York City",
+      "more_info": "official page: https://www.nyctourism.com/restaurant-week/"
+    },
+    {
+      "event_id": 1,
+      "event_date": "2026-02-06",
+      "event_name": "NYC Restaurant Week (Winter 2026)",
+      "event_desc": "Citywide prix-fixe dining program with 2-course lunches and 3-course dinners at $30, $45, and $60.",
+      "event_location": "Various participating restaurants across New York City",
+      "more_info": "official page: https://www.nyctourism.com/restaurant-week/"
+    },
+    {
+      "event_id": 1,
+      "event_date": "2026-02-07",
+      "event_name": "NYC Restaurant Week (Winter 2026)",
+      "event_desc": "Citywide prix-fixe dining program with 2-course lunches and 3-course dinners at $30, $45, and $60.",
+      "event_location": "Various participating restaurants across New York City",
+      "more_info": "official page: https://www.nyctourism.com/restaurant-week/"
+    },
+    {
+      "event_id": 1,
+      "event_date": "2026-02-08",
+      "event_name": "NYC Restaurant Week (Winter 2026)",
+      "event_desc": "Citywide prix-fixe dining program with 2-course lunches and 3-course dinners at $30, $45, and $60.",
+      "event_location": "Various participating restaurants across New York City",
+      "more_info": "official page: https://www.nyctourism.com/restaurant-week/"
+    },
+    {
+      "event_id": 1,
+      "event_date": "2026-02-09",
+      "event_name": "NYC Restaurant Week (Winter 2026)",
+      "event_desc": "Citywide prix-fixe dining program with 2-course lunches and 3-course dinners at $30, $45, and $60.",
+      "event_location": "Various participating restaurants across New York City",
+      "more_info": "official page: https://www.nyctourism.com/restaurant-week/"
+    },
+    {
+      "event_id": 1,
+      "event_date": "2026-02-10",
+      "event_name": "NYC Restaurant Week (Winter 2026)",
+      "event_desc": "Citywide prix-fixe dining program with 2-course lunches and 3-course dinners at $30, $45, and $60.",
+      "event_location": "Various participating restaurants across New York City",
+      "more_info": "official page: https://www.nyctourism.com/restaurant-week/"
+    },
+    {
+      "event_id": 1,
+      "event_date": "2026-02-11",
+      "event_name": "NYC Restaurant Week (Winter 2026)",
+      "event_desc": "Citywide prix-fixe dining program with 2-course lunches and 3-course dinners at $30, $45, and $60.",
+      "event_location": "Various participating restaurants across New York City",
+      "more_info": "official page: https://www.nyctourism.com/restaurant-week/"
+    },
+    {
+      "event_id": 1,
+      "event_date": "2026-02-12",
+      "event_name": "NYC Restaurant Week (Winter 2026)",
+      "event_desc": "Citywide prix-fixe dining program with 2-course lunches and 3-course dinners at $30, $45, and $60.",
+      "event_location": "Various participating restaurants across New York City",
+      "more_info": "official page: https://www.nyctourism.com/restaurant-week/"
+    },
+    {
+      "event_id": 2,
+      "event_date": "2026-01-26",
+      "event_name": "Burgers with Buddies at Gertrude's",
+      "event_desc": "Official guest burger collaboration series listed on Gertrude's happenings page.",
+      "event_location": "Gertrude's, 605 Carlton Ave, Brooklyn, NY 11238",
+      "more_info": "official page: https://www.gertrudes.nyc/happenings"
+    },
+    {
+      "event_id": 2,
+      "event_date": "2026-02-09",
+      "event_name": "Burgers with Buddies at Gertrude's",
+      "event_desc": "Official guest burger collaboration series listed on Gertrude's happenings page.",
+      "event_location": "Gertrude's, 605 Carlton Ave, Brooklyn, NY 11238",
+      "more_info": "official page: https://www.gertrudes.nyc/happenings"
+    },
+    {
+      "event_id": 2,
+      "event_date": "2026-02-16",
+      "event_name": "Burgers with Buddies at Gertrude's",
+      "event_desc": "Official guest burger collaboration series listed on Gertrude's happenings page.",
+      "event_location": "Gertrude's, 605 Carlton Ave, Brooklyn, NY 11238",
+      "more_info": "official page: https://www.gertrudes.nyc/happenings"
+    },
+    {
+      "event_id": 2,
+      "event_date": "2026-02-23",
+      "event_name": "Burgers with Buddies at Gertrude's",
+      "event_desc": "Official guest burger collaboration series listed on Gertrude's happenings page.",
+      "event_location": "Gertrude's, 605 Carlton Ave, Brooklyn, NY 11238",
+      "more_info": "official page: https://www.gertrudes.nyc/happenings"
+    },
+    {
+      "event_id": 2,
+      "event_date": "2026-03-23",
+      "event_name": "Burgers with Buddies at Gertrude's",
+      "event_desc": "Official guest burger collaboration series listed on Gertrude's happenings page.",
+      "event_location": "Gertrude's, 605 Carlton Ave, Brooklyn, NY 11238",
+      "more_info": "official page: https://www.gertrudes.nyc/happenings"
+    },
+    {
+      "event_id": 2,
+      "event_date": "2026-04-06",
+      "event_name": "Burgers with Buddies at Gertrude's",
+      "event_desc": "Official guest burger collaboration series listed on Gertrude's happenings page.",
+      "event_location": "Gertrude's, 605 Carlton Ave, Brooklyn, NY 11238",
+      "more_info": "official page: https://www.gertrudes.nyc/happenings"
+    },
+    {
+      "event_id": 2,
+      "event_date": "2026-04-20",
+      "event_name": "Burgers with Buddies at Gertrude's",
+      "event_desc": "Official guest burger collaboration series listed on Gertrude's happenings page.",
+      "event_location": "Gertrude's, 605 Carlton Ave, Brooklyn, NY 11238",
+      "more_info": "official page: https://www.gertrudes.nyc/happenings"
+    },
+    {
+      "event_id": 3,
+      "event_date": "2026-02-06",
+      "event_name": "Lunar New Year Holiday Market & Celebration",
+      "event_desc": "12:00 PM - 6:00 PM; Chinatown market with 20+ AAPI vendors selling home decor, food, and other cultural offerings.",
+      "event_location": "New Kam Man, 200 Canal St, 2nd Floor, Chinatown, New York, NY 10013",
+      "more_info": "official page: https://welcometochinatown.com/events/lny-village2026"
+    },
+    {
+      "event_id": 3,
+      "event_date": "2026-02-07",
+      "event_name": "Lunar New Year Holiday Market & Celebration",
+      "event_desc": "12:00 PM - 6:00 PM; Chinatown market with 20+ AAPI vendors selling home decor, food, and other cultural offerings.",
+      "event_location": "New Kam Man, 200 Canal St, 2nd Floor, Chinatown, New York, NY 10013",
+      "more_info": "official page: https://welcometochinatown.com/events/lny-village2026"
+    },
+    {
+      "event_id": 3,
+      "event_date": "2026-02-13",
+      "event_name": "Lunar New Year Holiday Market & Celebration",
+      "event_desc": "12:00 PM - 6:00 PM; Chinatown market with 20+ AAPI vendors selling home decor, food, and other cultural offerings.",
+      "event_location": "New Kam Man, 200 Canal St, 2nd Floor, Chinatown, New York, NY 10013",
+      "more_info": "official page: https://welcometochinatown.com/events/lny-village2026"
+    },
+    {
+      "event_id": 3,
+      "event_date": "2026-02-14",
+      "event_name": "Lunar New Year Holiday Market & Celebration",
+      "event_desc": "12:00 PM - 6:00 PM; Chinatown market with 20+ AAPI vendors selling home decor, food, and other cultural offerings.",
+      "event_location": "New Kam Man, 200 Canal St, 2nd Floor, Chinatown, New York, NY 10013",
+      "more_info": "official page: https://welcometochinatown.com/events/lny-village2026"
+    },
+    {
+      "event_id": 3,
+      "event_date": "2026-02-20",
+      "event_name": "Lunar New Year Holiday Market & Celebration",
+      "event_desc": "12:00 PM - 6:00 PM; Chinatown market with 20+ AAPI vendors selling home decor, food, and other cultural offerings.",
+      "event_location": "New Kam Man, 200 Canal St, 2nd Floor, Chinatown, New York, NY 10013",
+      "more_info": "official page: https://welcometochinatown.com/events/lny-village2026"
+    },
+    {
+      "event_id": 3,
+      "event_date": "2026-02-21",
+      "event_name": "Lunar New Year Holiday Market & Celebration",
+      "event_desc": "12:00 PM - 6:00 PM; Chinatown market with 20+ AAPI vendors selling home decor, food, and other cultural offerings.",
+      "event_location": "New Kam Man, 200 Canal St, 2nd Floor, Chinatown, New York, NY 10013",
+      "more_info": "official page: https://welcometochinatown.com/events/lny-village2026"
+    },
+    {
+      "event_id": 3,
+      "event_date": "2026-02-27",
+      "event_name": "Lunar New Year Holiday Market & Celebration",
+      "event_desc": "12:00 PM - 6:00 PM; Chinatown market with 20+ AAPI vendors selling home decor, food, and other cultural offerings.",
+      "event_location": "New Kam Man, 200 Canal St, 2nd Floor, Chinatown, New York, NY 10013",
+      "more_info": "official page: https://welcometochinatown.com/events/lny-village2026"
+    },
+    {
+      "event_id": 3,
+      "event_date": "2026-02-28",
+      "event_name": "Lunar New Year Holiday Market & Celebration",
+      "event_desc": "12:00 PM - 6:00 PM; Chinatown market with 20+ AAPI vendors selling home decor, food, and other cultural offerings.",
+      "event_location": "New Kam Man, 200 Canal St, 2nd Floor, Chinatown, New York, NY 10013",
+      "more_info": "official page: https://welcometochinatown.com/events/lny-village2026"
+    },
+    {
+      "event_id": 4,
+      "event_date": "2026-02-12",
+      "event_name": "Big Easy Dinner at JBF",
+      "event_desc": "Mardi Gras soirée hosted by Crew co-founders Alex and Miles Pincus with Chef Kerry Heffernan.",
+      "event_location": "Platform by JBF at Pier 57, 25 11th Ave, New York, NY 10011",
+      "more_info": "official page: https://www.jamesbeard.org/events/platform-dinner-crews-big-easy-feast-mardi-gras-soiree"
+    },
+    {
+      "event_id": 5,
+      "event_date": "2026-02-21",
+      "event_name": "Opening Bash 2026 (NYC Beer Week kickoff)",
+      "event_desc": "1:00 PM - 5:30 PM; NYC Beer Week kickoff tasting festival. VIP doors 1:00 PM; GA doors 2:00 PM.",
+      "event_location": "The Brooklyn Monarch, 23 Meadow St, Brooklyn, NY 11206",
+      "more_info": "official page: https://www.nycbrewed.com/events/opening-bash-2026"
+    },
+    {
+      "event_id": 6,
+      "event_date": "2026-03-01",
+      "event_name": "28th Annual Chinese New Year Parade & Festival Booths",
+      "event_desc": "Festival booths open 11:30 AM - 3:30 PM; parade begins at 1:00 PM. Includes booths selling Chinese cultural goods and food.",
+      "event_location": "Bayard St between Mulberry St and Mott St, Chinatown, New York, NY",
+      "more_info": "official page: https://betterchinatown.com/"
+    },
+    {
+      "event_id": 7,
+      "event_date": "2026-03-07",
+      "event_name": "Holi at the South St Seaport",
+      "event_desc": "12:00 PM - 3:00 PM; Indian spring festival with Indian cuisine, merchants, and color throwing.",
+      "event_location": "Seaport Square between Pier 16 and Pier 17, South Street Seaport, New York, NY 10038",
+      "more_info": "official page: https://theseaport.nyc/events/holi/"
+    },
+    {
+      "event_id": 8,
+      "event_date": "2026-03-07",
+      "event_name": "NYC Winter Wine & Food Festival® / NYC Winter Wine Festival®",
+      "event_desc": "Two sessions: 1:00 PM - 4:00 PM and 5:00 PM - 8:00 PM; wine-and-food tasting festival.",
+      "event_location": "630 SECOND / Grand Ballroom, 630 Second Ave, New York, NY 10016",
+      "more_info": "official page: https://crushwinexp.com/wine-events/nyc-winter-wine-festival/"
+    },
+    {
+      "event_id": 9,
+      "event_date": "2026-03-11",
+      "event_name": "Nassau Paradise Island Wine & Food Festival (NPIWFF)",
+      "event_desc": "Five-day food festival in the Bahamas with chef events, tastings, and dinners hosted across the resort.",
+      "event_location": "Atlantis Paradise Island, Nassau, Bahamas",
+      "more_info": "official page: https://www.atlantisbahamas.com/wine-and-food-festival"
+    },
+    {
+      "event_id": 9,
+      "event_date": "2026-03-12",
+      "event_name": "Nassau Paradise Island Wine & Food Festival (NPIWFF)",
+      "event_desc": "Five-day food festival in the Bahamas with chef events, tastings, and dinners hosted across the resort.",
+      "event_location": "Atlantis Paradise Island, Nassau, Bahamas",
+      "more_info": "official page: https://www.atlantisbahamas.com/wine-and-food-festival"
+    },
+    {
+      "event_id": 9,
+      "event_date": "2026-03-13",
+      "event_name": "Nassau Paradise Island Wine & Food Festival (NPIWFF)",
+      "event_desc": "Five-day food festival in the Bahamas with chef events, tastings, and dinners hosted across the resort.",
+      "event_location": "Atlantis Paradise Island, Nassau, Bahamas",
+      "more_info": "official page: https://www.atlantisbahamas.com/wine-and-food-festival"
+    },
+    {
+      "event_id": 9,
+      "event_date": "2026-03-14",
+      "event_name": "Nassau Paradise Island Wine & Food Festival (NPIWFF)",
+      "event_desc": "Five-day food festival in the Bahamas with chef events, tastings, and dinners hosted across the resort.",
+      "event_location": "Atlantis Paradise Island, Nassau, Bahamas",
+      "more_info": "official page: https://www.atlantisbahamas.com/wine-and-food-festival"
+    },
+    {
+      "event_id": 9,
+      "event_date": "2026-03-15",
+      "event_name": "Nassau Paradise Island Wine & Food Festival (NPIWFF)",
+      "event_desc": "Five-day food festival in the Bahamas with chef events, tastings, and dinners hosted across the resort.",
+      "event_location": "Atlantis Paradise Island, Nassau, Bahamas",
+      "more_info": "official page: https://www.atlantisbahamas.com/wine-and-food-festival"
+    },
+    {
+      "event_id": 10,
+      "event_date": "2026-03-21",
+      "event_name": "The Bloody Mary Festival - New York City",
+      "event_desc": "VIP 11:00 AM - 2:00 PM; GA 11:45 AM - 2:00 PM; cocktail-centered tasting festival.",
+      "event_location": "BKloft26, 153 26th St, Brooklyn, NY 11232",
+      "more_info": "official page: https://www.thebloodymaryfest.com/new-york-city-3-21-26"
+    },
+    {
+      "event_id": 11,
+      "event_date": "2026-03-28",
+      "event_name": "Mar 28th | JAPAN Fes New York @Astor Place",
+      "event_desc": "10:00 AM - 6:00 PM; East Village (Astor Place)",
+      "event_location": "Astor Place, East Village, New York, NY",
+      "more_info": "official page: https://www.japanfes.com/new-blog/2026/mar-28-east-village"
+    },
+    {
+      "event_id": 12,
+      "event_date": "2026-03-29",
+      "event_name": "Mar 29th | JAPAN Fes New York @Midtown West",
+      "event_desc": "10:00 AM - 6:00 PM; Midtown West (Bryant Park 40th 5th-6th Ave)",
+      "event_location": "Bryant Park area, W 40th St between 5th Ave and 6th Ave, Midtown West, New York, NY",
+      "more_info": "official page: https://www.japanfes.com/new-blog/2026/mar-29-midtown-west"
+    },
+    {
+      "event_id": 14,
+      "event_date": "2026-04-04",
+      "event_name": "April 4th | JAPAN Fes New York @The Village",
+      "event_desc": "10:00 AM - 6:00 PM; The Village (Broadway, 8-9)",
+      "event_location": "Broadway between E 8th St and E 9th St, Greenwich Village, New York, NY",
+      "more_info": "official page: https://www.japanfes.com/new-blog/2026/apr-4-the-village"
+    },
+    {
+      "event_id": 15,
+      "event_date": "2026-04-04",
+      "event_name": "UBELAND New York, NYC",
+      "event_desc": "10:00 AM - 6:00 PM; Philippines Fest pop-up featuring 20+ ube-focused vendors with savory bites and desserts.",
+      "event_location": "Broadway between E 12th St and E 13th St, New York, NY 10003",
+      "more_info": "official social/event page: https://www.instagram.com/philippinesfest/"
+    },
+    {
+      "event_id": 16,
+      "event_date": "2026-04-05",
+      "event_name": "April 5th | JAPAN Fes New York @Upper West Side",
+      "event_desc": "10:00 AM - 6:00 PM; UWS (Broadway 103-104 E)",
+      "event_location": "Broadway between W 103rd St and W 104th St, Upper West Side, New York, NY",
+      "more_info": "official page: https://www.japanfes.com/new-blog/2026/apr-5-uws"
+    },
+    {
+      "event_id": 17,
+      "event_date": "2026-04-11",
+      "event_name": "April 11th | JAPAN Fes New York @East Village",
+      "event_desc": "10:00 AM - 6:00 PM; East Village (2nd Ave, 10-11)",
+      "event_location": "2nd Ave between E 10th St and E 11th St, East Village, New York, NY",
+      "more_info": "official page: https://www.japanfes.com/new-blog/2026/apr-11-east-village"
+    },
+    {
+      "event_id": 18,
+      "event_date": "2026-04-12",
+      "event_name": "April 12th | JAPAN Fes New York @East Village",
+      "event_desc": "10:00 AM - 6:00 PM; East Village (Astor Place)",
+      "event_location": "Astor Place, East Village, New York, NY",
+      "more_info": "official page: https://www.japanfes.com/new-blog/2026/apr-12-east-village"
+    },
+    {
+      "event_id": 19,
+      "event_date": "2026-04-18",
+      "event_name": "April 18th | JAPAN Fes New York @Morningside Heights",
+      "event_desc": "10:00 AM - 6:00 PM; Morningside Heights",
+      "event_location": "Broadway between W 115th St and W 116th St, Morningside Heights, New York, NY",
+      "more_info": "official page: https://www.japanfes.com/new-blog/2026/apr-18-morningside-heights"
+    },
+    {
+      "event_id": 20,
+      "event_date": "2026-04-19",
+      "event_name": "April 19th | JAPAN Fes New York @Chelsea",
+      "event_desc": "10:00 AM - 6:00 PM; Chelsea (6th Ave, 23-24)",
+      "event_location": "6th Ave between W 23rd St and W 24th St, Chelsea, New York, NY",
+      "more_info": "official page: https://www.japanfes.com/new-blog/2026/apr-19-chelsea"
+    },
+    {
+      "event_id": 21,
+      "event_date": "2026-04-25",
+      "event_name": "April 25th | JAPAN Fes New York @Chelsea",
+      "event_desc": "10:00 AM - 6:00 PM; Chelsea (8th Ave 16th-17th St)",
+      "event_location": "8th Ave between W 16th St and W 17th St, Chelsea, New York, NY",
+      "more_info": "official page: https://www.japanfes.com/new-blog/2026/apr-25-chelsea"
+    },
+    {
+      "event_id": 22,
+      "event_date": "2026-04-25",
+      "event_name": "Pig Beach BBQ Benefit",
+      "event_desc": "6th Annual Jeff Michner Foundation BBQ Benefit at Pig Beach BBQ Queens; all-ticket fundraiser featuring 25+ food stations, pitmasters, and drinks.",
+      "event_location": "Pig Beach BBQ, 35-37 36th St, Astoria, NY 11106",
+      "more_info": "official page: https://jeffmichnerfoundation.com/"
+    },
+    {
+      "event_id": 23,
+      "event_date": "2026-04-25",
+      "event_name": "NYC Hot Sauce Expo (13th Annual)",
+      "event_desc": "Sat 10:00 AM - 6:00 PM; Sun 10:00 AM - 6:00 PM; hot sauce festival and tasting expo.",
+      "event_location": "Industry City, 51 34th St, Brooklyn, NY 11232",
+      "more_info": "official page: https://www.nychotsauceexpo.com/"
+    },
+    {
+      "event_id": 23,
+      "event_date": "2026-04-26",
+      "event_name": "NYC Hot Sauce Expo (13th Annual)",
+      "event_desc": "Sat 10:00 AM - 6:00 PM; Sun 10:00 AM - 6:00 PM; hot sauce festival and tasting expo.",
+      "event_location": "Industry City, 51 34th St, Brooklyn, NY 11232",
+      "more_info": "official page: https://www.nychotsauceexpo.com/"
+    },
+    {
+      "event_id": 24,
+      "event_date": "2026-04-26",
+      "event_name": "April 26th | JAPAN Fes New York @Astoria",
+      "event_desc": "10:00 AM - 6:00 PM; Astoria",
+      "event_location": "Steinway St, Broadway to 34th Ave, Astoria, Queens, NY",
+      "more_info": "official page: https://www.japanfes.com/new-blog/2026/apr-26-astoria"
+    },
+    {
+      "event_id": 25,
+      "event_date": "2026-04-29",
+      "event_name": "Brisket King NYC",
+      "event_desc": "20+ chefs and restaurants compete for the Brisket King crown; ticket includes all food and drinks.",
+      "event_location": "Pig Beach BBQ, 35-37 36th St, Ground Floor, Astoria, NY 11106",
+      "more_info": "official page: https://brisketking.com/"
+    },
+    {
+      "event_id": 26,
+      "event_date": "2026-05-09",
+      "event_name": "Bronx Night Market (Spring 2026)",
+      "event_desc": "Bronx flagship food and culture festival with 50+ food, drink, merchandise, and artisan vendors.",
+      "event_location": "Grand Concourse & E 161st St, Bronx, NY",
+      "more_info": "official page: https://www.bronxnightmarket.com/"
+    },
+    {
+      "event_id": 27,
+      "event_date": "2026-05-12",
+      "event_name": "Queens Taste 2026",
+      "event_desc": "6:00 PM - 9:00 PM; tasting and benefit gala featuring Queens restaurants and food makers.",
+      "event_location": "Sound River Studios, 4-40 44th Dr, Long Island City, NY 11101",
+      "more_info": "official page: https://www.queenstaste.org/"
+    },
+    {
+      "event_id": 28,
+      "event_date": "2026-05-16",
+      "event_name": "Taste of Tribeca",
+      "event_desc": "Annual outdoor food festival fundraiser featuring neighborhood chefs and restaurants showcasing signature dishes.",
+      "event_location": "Greenwich St & Duane St, Tribeca, New York, NY 10013",
+      "more_info": "official page: https://tasteoftribeca.com/"
+    },
+    {
+      "event_id": 29,
+      "event_date": "2026-05-16",
+      "event_name": "9th Avenue International Food Festival",
+      "event_desc": "10:00 AM - 6:00 PM; annual Hell's Kitchen street food festival spanning 9th Avenue with neighborhood restaurants, vendors, and entertainment.",
+      "event_location": "9th Avenue between W 42nd St and W 57th St, Hell's Kitchen, New York, NY",
+      "more_info": "official page: https://www.ninthavenuefoodfestival.com/"
+    },
+    {
+      "event_id": 29,
+      "event_date": "2026-05-17",
+      "event_name": "9th Avenue International Food Festival",
+      "event_desc": "10:00 AM - 6:00 PM; annual Hell's Kitchen street food festival spanning 9th Avenue with neighborhood restaurants, vendors, and entertainment.",
+      "event_location": "9th Avenue between W 42nd St and W 57th St, Hell's Kitchen, New York, NY",
+      "more_info": "official page: https://www.ninthavenuefoodfestival.com/"
+    },
+    {
+      "event_id": 30,
+      "event_date": "2026-05-23",
+      "event_name": "Rib King NYC",
+      "event_desc": "20+ chefs and restaurants compete for the Rib King crown; ticket includes all food and drinks.",
+      "event_location": "Industry City Courtyard 1/2, 635 2nd Ave, Brooklyn, NY 11232",
+      "more_info": "official page: https://ribkingnyc.com/"
+    },
+    {
+      "event_id": 31,
+      "event_date": "2026-06-06",
+      "event_name": "June 6th | JAPAN Fes New York @East Village",
+      "event_desc": "10:00 AM - 6:00 PM; Japanese street food festival. Added from the verified 2026 June schedule.",
+      "event_location": "East Village, New York, NY",
+      "more_info": "trusted source: https://www.timeout.com/newyork/news/this-massive-japanese-street-food-festival-is-almost-back-031226"
+    },
+    {
+      "event_id": 32,
+      "event_date": "2026-06-07",
+      "event_name": "Borinquen Heritage Fest",
+      "event_desc": "11:00 AM - 7:00 PM; Puerto Rican heritage festival. Free entry; details were marked medium-confidence in the PDF because primary ticket pages were not accessible.",
+      "event_location": "Snug Harbor Cultural Center & Botanical Garden, 1000 Richmond Terrace, Staten Island, NY 10301",
+      "more_info": "official page: https://www.sipra25.org/"
+    },
+    {
+      "event_id": 33,
+      "event_date": "2026-06-07",
+      "event_name": "June 7th | JAPAN Fes New York @Upper West Side",
+      "event_desc": "10:00 AM - 6:00 PM; Japanese street food festival. Added from the verified 2026 June schedule.",
+      "event_location": "Upper West Side, New York, NY",
+      "more_info": "trusted source: https://www.timeout.com/newyork/news/this-massive-japanese-street-food-festival-is-almost-back-031226"
+    },
+    {
+      "event_id": 34,
+      "event_date": "2026-06-14",
+      "event_name": "June 14th | JAPAN Fes New York @East Village",
+      "event_desc": "10:00 AM - 6:00 PM; Japanese street food festival. Added from the verified 2026 June schedule.",
+      "event_location": "East Village, New York, NY",
+      "more_info": "trusted source: https://www.timeout.com/newyork/news/this-massive-japanese-street-food-festival-is-almost-back-031226"
+    },
+    {
+      "event_id": 35,
+      "event_date": "2026-06-21",
+      "event_name": "June 21st | JAPAN Fes New York @Brooklyn",
+      "event_desc": "10:00 AM - 6:00 PM; Japanese street food festival. Added from the verified 2026 June schedule.",
+      "event_location": "Brooklyn, New York",
+      "more_info": "trusted source: https://www.timeout.com/newyork/news/this-massive-japanese-street-food-festival-is-almost-back-031226"
+    },
+    {
+      "event_id": 36,
+      "event_date": "2026-06-21",
+      "event_name": "The Great Nosh",
+      "event_desc": "NYC summer picnic-style food festival with restaurant collaborations, drinks, live music, and art.",
+      "event_location": "Play Lawns, Governors Island, New York, NY",
+      "more_info": "official page: https://thegreatnosh.com/"
+    },
+    {
+      "event_id": 37,
+      "event_date": "2026-06-27",
+      "event_name": "June 27th | JAPAN Fes New York @Times Square",
+      "event_desc": "10:00 AM - 6:00 PM; Japanese street food festival. Added from the verified 2026 June schedule.",
+      "event_location": "Times Square, New York, NY",
+      "more_info": "trusted source: https://www.timeout.com/newyork/news/this-massive-japanese-street-food-festival-is-almost-back-031226"
+    },
+    {
+      "event_id": 38,
+      "event_date": "2026-06-28",
+      "event_name": "June 28th | JAPAN Fes New York @Astoria",
+      "event_desc": "10:00 AM - 6:00 PM; Japanese street food festival. Added from the verified 2026 June schedule.",
+      "event_location": "Astoria, Queens, NY",
+      "more_info": "trusted source: https://www.timeout.com/newyork/news/this-massive-japanese-street-food-festival-is-almost-back-031226"
+    },
+    {
+      "event_id": 39,
+      "event_date": "2026-06-28",
+      "event_name": "Toñita Fest, NYC",
+      "event_desc": "12:00 PM - 6:00 PM; annual public festival celebrating Toñitas NY, Puerto Rican roots, and Caribbean Social Club's anniversary.",
+      "event_location": "Grand St between Driggs Ave and Roebling St, Brooklyn, NY 11211",
+      "more_info": "official social/event page: https://www.facebook.com/tonitasny/"
+    },
+    {
+      "event_id": 40,
+      "event_date": "2026-07-10",
+      "event_name": "Harlem Summer Nights",
+      "event_desc": "Fridays, July 10-August 21, 2026; weekly open-air Harlem food market and cultural series with 60+ vendors and live experiences.",
+      "event_location": "West Harlem, New York, NY",
+      "more_info": "official page: https://www.harlemsummernights.com/"
+    },
+    {
+      "event_id": 40,
+      "event_date": "2026-07-17",
+      "event_name": "Harlem Summer Nights",
+      "event_desc": "Fridays, July 10-August 21, 2026; weekly open-air Harlem food market and cultural series with 60+ vendors and live experiences.",
+      "event_location": "West Harlem, New York, NY",
+      "more_info": "official page: https://www.harlemsummernights.com/"
+    },
+    {
+      "event_id": 40,
+      "event_date": "2026-07-24",
+      "event_name": "Harlem Summer Nights",
+      "event_desc": "Fridays, July 10-August 21, 2026; weekly open-air Harlem food market and cultural series with 60+ vendors and live experiences.",
+      "event_location": "West Harlem, New York, NY",
+      "more_info": "official page: https://www.harlemsummernights.com/"
+    },
+    {
+      "event_id": 40,
+      "event_date": "2026-07-31",
+      "event_name": "Harlem Summer Nights",
+      "event_desc": "Fridays, July 10-August 21, 2026; weekly open-air Harlem food market and cultural series with 60+ vendors and live experiences.",
+      "event_location": "West Harlem, New York, NY",
+      "more_info": "official page: https://www.harlemsummernights.com/"
+    },
+    {
+      "event_id": 40,
+      "event_date": "2026-08-07",
+      "event_name": "Harlem Summer Nights",
+      "event_desc": "Fridays, July 10-August 21, 2026; weekly open-air Harlem food market and cultural series with 60+ vendors and live experiences.",
+      "event_location": "West Harlem, New York, NY",
+      "more_info": "official page: https://www.harlemsummernights.com/"
+    },
+    {
+      "event_id": 40,
+      "event_date": "2026-08-14",
+      "event_name": "Harlem Summer Nights",
+      "event_desc": "Fridays, July 10-August 21, 2026; weekly open-air Harlem food market and cultural series with 60+ vendors and live experiences.",
+      "event_location": "West Harlem, New York, NY",
+      "more_info": "official page: https://www.harlemsummernights.com/"
+    },
+    {
+      "event_id": 40,
+      "event_date": "2026-08-21",
+      "event_name": "Harlem Summer Nights",
+      "event_desc": "Fridays, July 10-August 21, 2026; weekly open-air Harlem food market and cultural series with 60+ vendors and live experiences.",
+      "event_location": "West Harlem, New York, NY",
+      "more_info": "official page: https://www.harlemsummernights.com/"
+    },
+    {
+      "event_id": 41,
+      "event_date": "2026-07-18",
+      "event_name": "Family Style New York (Family Style Food Festival) 2026",
+      "event_desc": "NYC date announced; venue, time, and ticket details still TBA on the official site.",
+      "event_location": "New York City venue TBA",
+      "more_info": "official page: https://www.familystylefest.com/"
+    },
+    {
+      "event_id": 42,
+      "event_date": "2026-09-12",
+      "event_name": "Pig Island NYC™",
+      "event_desc": "VIP entry 11:00 AM; GA entry 12:00 PM; all-inclusive food festival through 4:00 PM.",
+      "event_location": "South Meadow at Snug Harbor Cultural Center & Botanical Garden, 1000 Richmond Terrace, Staten Island, NY 10301",
+      "more_info": "official page: https://pigisland.com/pig-island-nyc-2026-tickets/"
+    },
+    {
+      "event_id": 43,
+      "event_date": "2026-09-13",
+      "event_name": "Ferragosto (Bronx Little Italy)",
+      "event_desc": "12:00 PM - 6:00 PM; Bronx Little Italy street festival, rain or shine.",
+      "event_location": "Arthur Ave between E 187th St and Crescent Ave, Bronx, NY",
+      "more_info": "official page: https://bronxlittleitaly.com/ferragostoinfo/"
+    },
+    {
+      "event_id": 44,
+      "event_date": "2026-09-17",
+      "event_name": "Feast of San Gennaro 2026",
+      "event_desc": "Little Italy street festival. Official site lists the 2026 date range, but daily hours were not fully captured in the PDF and should be rechecked closer to September.",
+      "event_location": "Mulberry St and surrounding blocks, Little Italy, New York, NY",
+      "more_info": "official page: https://sangennaronyc.org/"
+    },
+    {
+      "event_id": 44,
+      "event_date": "2026-09-18",
+      "event_name": "Feast of San Gennaro 2026",
+      "event_desc": "Little Italy street festival. Official site lists the 2026 date range, but daily hours were not fully captured in the PDF and should be rechecked closer to September.",
+      "event_location": "Mulberry St and surrounding blocks, Little Italy, New York, NY",
+      "more_info": "official page: https://sangennaronyc.org/"
+    },
+    {
+      "event_id": 44,
+      "event_date": "2026-09-19",
+      "event_name": "Feast of San Gennaro 2026",
+      "event_desc": "Little Italy street festival. Official site lists the 2026 date range, but daily hours were not fully captured in the PDF and should be rechecked closer to September.",
+      "event_location": "Mulberry St and surrounding blocks, Little Italy, New York, NY",
+      "more_info": "official page: https://sangennaronyc.org/"
+    },
+    {
+      "event_id": 44,
+      "event_date": "2026-09-20",
+      "event_name": "Feast of San Gennaro 2026",
+      "event_desc": "Little Italy street festival. Official site lists the 2026 date range, but daily hours were not fully captured in the PDF and should be rechecked closer to September.",
+      "event_location": "Mulberry St and surrounding blocks, Little Italy, New York, NY",
+      "more_info": "official page: https://sangennaronyc.org/"
+    },
+    {
+      "event_id": 44,
+      "event_date": "2026-09-21",
+      "event_name": "Feast of San Gennaro 2026",
+      "event_desc": "Little Italy street festival. Official site lists the 2026 date range, but daily hours were not fully captured in the PDF and should be rechecked closer to September.",
+      "event_location": "Mulberry St and surrounding blocks, Little Italy, New York, NY",
+      "more_info": "official page: https://sangennaronyc.org/"
+    },
+    {
+      "event_id": 44,
+      "event_date": "2026-09-22",
+      "event_name": "Feast of San Gennaro 2026",
+      "event_desc": "Little Italy street festival. Official site lists the 2026 date range, but daily hours were not fully captured in the PDF and should be rechecked closer to September.",
+      "event_location": "Mulberry St and surrounding blocks, Little Italy, New York, NY",
+      "more_info": "official page: https://sangennaronyc.org/"
+    },
+    {
+      "event_id": 44,
+      "event_date": "2026-09-23",
+      "event_name": "Feast of San Gennaro 2026",
+      "event_desc": "Little Italy street festival. Official site lists the 2026 date range, but daily hours were not fully captured in the PDF and should be rechecked closer to September.",
+      "event_location": "Mulberry St and surrounding blocks, Little Italy, New York, NY",
+      "more_info": "official page: https://sangennaronyc.org/"
+    },
+    {
+      "event_id": 44,
+      "event_date": "2026-09-24",
+      "event_name": "Feast of San Gennaro 2026",
+      "event_desc": "Little Italy street festival. Official site lists the 2026 date range, but daily hours were not fully captured in the PDF and should be rechecked closer to September.",
+      "event_location": "Mulberry St and surrounding blocks, Little Italy, New York, NY",
+      "more_info": "official page: https://sangennaronyc.org/"
+    },
+    {
+      "event_id": 44,
+      "event_date": "2026-09-25",
+      "event_name": "Feast of San Gennaro 2026",
+      "event_desc": "Little Italy street festival. Official site lists the 2026 date range, but daily hours were not fully captured in the PDF and should be rechecked closer to September.",
+      "event_location": "Mulberry St and surrounding blocks, Little Italy, New York, NY",
+      "more_info": "official page: https://sangennaronyc.org/"
+    },
+    {
+      "event_id": 44,
+      "event_date": "2026-09-26",
+      "event_name": "Feast of San Gennaro 2026",
+      "event_desc": "Little Italy street festival. Official site lists the 2026 date range, but daily hours were not fully captured in the PDF and should be rechecked closer to September.",
+      "event_location": "Mulberry St and surrounding blocks, Little Italy, New York, NY",
+      "more_info": "official page: https://sangennaronyc.org/"
+    },
+    {
+      "event_id": 44,
+      "event_date": "2026-09-27",
+      "event_name": "Feast of San Gennaro 2026",
+      "event_desc": "Little Italy street festival. Official site lists the 2026 date range, but daily hours were not fully captured in the PDF and should be rechecked closer to September.",
+      "event_location": "Mulberry St and surrounding blocks, Little Italy, New York, NY",
+      "more_info": "official page: https://sangennaronyc.org/"
+    },
+    {
+      "event_id": 45,
+      "event_date": "2026-09-19",
+      "event_name": "Latin Food Festival NYC (Latin Food Fest) 2026",
+      "event_desc": "12:00 PM - 8:00 PM daily; food festival with free entry / RSVP and VIP options. Exact Bronx venue still TBA.",
+      "event_location": "Uptown / The Bronx venue TBA",
+      "more_info": "official page: https://www.thelatinfoodfest.com/"
+    },
+    {
+      "event_id": 45,
+      "event_date": "2026-09-20",
+      "event_name": "Latin Food Festival NYC (Latin Food Fest) 2026",
+      "event_desc": "12:00 PM - 8:00 PM daily; food festival with free entry / RSVP and VIP options. Exact Bronx venue still TBA.",
+      "event_location": "Uptown / The Bronx venue TBA",
+      "more_info": "official page: https://www.thelatinfoodfest.com/"
+    },
+    {
+      "event_id": 46,
+      "event_date": "2026-09-25",
+      "event_name": "Creole Food Festival - New York City 2026 Grand Tasting",
+      "event_desc": "Weekend festival; Grand Tasting on Sat Sep 26 from 3:00 PM - 8:00 PM ET, with VIP hour 2:00 PM - 3:00 PM.",
+      "event_location": "Emily Roebling Plaza / Time Out Market partnership, DUMBO, Brooklyn, NY",
+      "more_info": "official page: https://www.creolefoodfestival.com/newyorkcity"
+    },
+    {
+      "event_id": 46,
+      "event_date": "2026-09-26",
+      "event_name": "Creole Food Festival - New York City 2026 Grand Tasting",
+      "event_desc": "Weekend festival; Grand Tasting on Sat Sep 26 from 3:00 PM - 8:00 PM ET, with VIP hour 2:00 PM - 3:00 PM.",
+      "event_location": "Emily Roebling Plaza / Time Out Market partnership, DUMBO, Brooklyn, NY",
+      "more_info": "official page: https://www.creolefoodfestival.com/newyorkcity"
+    },
+    {
+      "event_id": 46,
+      "event_date": "2026-09-27",
+      "event_name": "Creole Food Festival - New York City 2026 Grand Tasting",
+      "event_desc": "Weekend festival; Grand Tasting on Sat Sep 26 from 3:00 PM - 8:00 PM ET, with VIP hour 2:00 PM - 3:00 PM.",
+      "event_location": "Emily Roebling Plaza / Time Out Market partnership, DUMBO, Brooklyn, NY",
+      "more_info": "official page: https://www.creolefoodfestival.com/newyorkcity"
+    },
+    {
+      "event_id": 47,
+      "event_date": "2026-10-03",
+      "event_name": "CiderFeast™ Brooklyn",
+      "event_desc": "Brooklyn 2026 date confirmed; venue and time still pending on the official site.",
+      "event_location": "Brooklyn venue TBA",
+      "more_info": "official page: https://ciderfeasthq.com/"
+    },
+    {
+      "event_id": 48,
+      "event_date": "2026-10-10",
+      "event_name": "Bronx Night Market (Fall 2026)",
+      "event_desc": "Bronx flagship food and culture festival with 50+ food, drink, merchandise, and artisan vendors.",
+      "event_location": "Grand Concourse & E 161st St, Bronx, NY",
+      "more_info": "official page: https://www.bronxnightmarket.com/"
+    },
+    {
+      "event_id": 49,
+      "event_date": "2026-10-14",
+      "event_name": "New York City Wine & Food Festival (NYCWFF)",
+      "event_desc": "Five-day city food festival with signature tastings, dinners, chef appearances, and Food Network talent. Note: current official 2026 dates are Oct 14-18.",
+      "event_location": "Seaport neighborhood, Lower Manhattan, New York, NY",
+      "more_info": "official page: https://nycwff.org/"
+    },
+    {
+      "event_id": 49,
+      "event_date": "2026-10-15",
+      "event_name": "New York City Wine & Food Festival (NYCWFF)",
+      "event_desc": "Five-day city food festival with signature tastings, dinners, chef appearances, and Food Network talent. Note: current official 2026 dates are Oct 14-18.",
+      "event_location": "Seaport neighborhood, Lower Manhattan, New York, NY",
+      "more_info": "official page: https://nycwff.org/"
+    },
+    {
+      "event_id": 49,
+      "event_date": "2026-10-16",
+      "event_name": "New York City Wine & Food Festival (NYCWFF)",
+      "event_desc": "Five-day city food festival with signature tastings, dinners, chef appearances, and Food Network talent. Note: current official 2026 dates are Oct 14-18.",
+      "event_location": "Seaport neighborhood, Lower Manhattan, New York, NY",
+      "more_info": "official page: https://nycwff.org/"
+    },
+    {
+      "event_id": 49,
+      "event_date": "2026-10-17",
+      "event_name": "New York City Wine & Food Festival (NYCWFF)",
+      "event_desc": "Five-day city food festival with signature tastings, dinners, chef appearances, and Food Network talent. Note: current official 2026 dates are Oct 14-18.",
+      "event_location": "Seaport neighborhood, Lower Manhattan, New York, NY",
+      "more_info": "official page: https://nycwff.org/"
+    },
+    {
+      "event_id": 49,
+      "event_date": "2026-10-18",
+      "event_name": "New York City Wine & Food Festival (NYCWFF)",
+      "event_desc": "Five-day city food festival with signature tastings, dinners, chef appearances, and Food Network talent. Note: current official 2026 dates are Oct 14-18.",
+      "event_location": "Seaport neighborhood, Lower Manhattan, New York, NY",
+      "more_info": "official page: https://nycwff.org/"
+    },
+    {
+      "event_id": 50,
+      "event_date": "2026-02-04",
+      "event_name": "Brooklyn-Mae Sushi Pop-Up",
+      "event_desc": "Greenpoint Fish hosts a weekly sushi night with Chef Jun Okada featuring locally sourced seafood and drink pairings by Kato Sake Works.",
+      "event_location": "Greenpoint Fish & Lobster, 114 Nassau Ave, Brooklyn, NY 11222",
+      "more_info": "official social/event page: https://www.facebook.com/GreenpointFish/posts/you-know-taco-tuesday-welcome-to-sushi-wednesday-chef-junklyn-is-bringing-sushi-/910746781466397/"
+    },
+    {
+      "event_id": 50,
+      "event_date": "2026-02-11",
+      "event_name": "Brooklyn-Mae Sushi Pop-Up",
+      "event_desc": "Greenpoint Fish hosts a weekly sushi night with Chef Jun Okada featuring locally sourced seafood and drink pairings by Kato Sake Works.",
+      "event_location": "Greenpoint Fish & Lobster, 114 Nassau Ave, Brooklyn, NY 11222",
+      "more_info": "official social/event page: https://www.facebook.com/GreenpointFish/posts/you-know-taco-tuesday-welcome-to-sushi-wednesday-chef-junklyn-is-bringing-sushi-/910746781466397/"
+    },
+    {
+      "event_id": 50,
+      "event_date": "2026-02-18",
+      "event_name": "Brooklyn-Mae Sushi Pop-Up",
+      "event_desc": "Greenpoint Fish hosts a weekly sushi night with Chef Jun Okada featuring locally sourced seafood and drink pairings by Kato Sake Works.",
+      "event_location": "Greenpoint Fish & Lobster, 114 Nassau Ave, Brooklyn, NY 11222",
+      "more_info": "official social/event page: https://www.facebook.com/GreenpointFish/posts/you-know-taco-tuesday-welcome-to-sushi-wednesday-chef-junklyn-is-bringing-sushi-/910746781466397/"
+    },
+    {
+      "event_id": 50,
+      "event_date": "2026-02-25",
+      "event_name": "Brooklyn-Mae Sushi Pop-Up",
+      "event_desc": "Greenpoint Fish hosts a weekly sushi night with Chef Jun Okada featuring locally sourced seafood and drink pairings by Kato Sake Works.",
+      "event_location": "Greenpoint Fish & Lobster, 114 Nassau Ave, Brooklyn, NY 11222",
+      "more_info": "official social/event page: https://www.facebook.com/GreenpointFish/posts/you-know-taco-tuesday-welcome-to-sushi-wednesday-chef-junklyn-is-bringing-sushi-/910746781466397/"
+    },
+    {
+      "event_id": 51,
+      "event_date": "2026-04-02",
+      "event_name": "Smorgasburg",
+      "event_desc": "16th season grand reopening Apr 2-5. Open-air food market operating weekly: Fridays at World Trade Center, Saturdays in Williamsburg, and Sundays in Prospect Park; 11:00 AM - 6:00 PM.",
+      "event_location": "Multiple NYC locations: The Oculus / World Trade Center, 185 Greenwich St, New York, NY; Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY",
+      "more_info": "official page: https://www.smorgasburg.com/"
+    },
+    {
+      "event_id": 51,
+      "event_date": "2026-04-03",
+      "event_name": "Smorgasburg",
+      "event_desc": "16th season grand reopening Apr 2-5. Open-air food market operating weekly: Fridays at World Trade Center, Saturdays in Williamsburg, and Sundays in Prospect Park; 11:00 AM - 6:00 PM.",
+      "event_location": "Multiple NYC locations: The Oculus / World Trade Center, 185 Greenwich St, New York, NY; Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY",
+      "more_info": "official page: https://www.smorgasburg.com/"
+    },
+    {
+      "event_id": 51,
+      "event_date": "2026-04-10",
+      "event_name": "Smorgasburg",
+      "event_desc": "16th season grand reopening Apr 2-5. Open-air food market operating weekly: Fridays at World Trade Center, Saturdays in Williamsburg, and Sundays in Prospect Park; 11:00 AM - 6:00 PM.",
+      "event_location": "Multiple NYC locations: The Oculus / World Trade Center, 185 Greenwich St, New York, NY; Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY",
+      "more_info": "official page: https://www.smorgasburg.com/"
+    },
+    {
+      "event_id": 51,
+      "event_date": "2026-04-17",
+      "event_name": "Smorgasburg",
+      "event_desc": "16th season grand reopening Apr 2-5. Open-air food market operating weekly: Fridays at World Trade Center, Saturdays in Williamsburg, and Sundays in Prospect Park; 11:00 AM - 6:00 PM.",
+      "event_location": "Multiple NYC locations: The Oculus / World Trade Center, 185 Greenwich St, New York, NY; Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY",
+      "more_info": "official page: https://www.smorgasburg.com/"
+    },
+    {
+      "event_id": 51,
+      "event_date": "2026-04-24",
+      "event_name": "Smorgasburg",
+      "event_desc": "16th season grand reopening Apr 2-5. Open-air food market operating weekly: Fridays at World Trade Center, Saturdays in Williamsburg, and Sundays in Prospect Park; 11:00 AM - 6:00 PM.",
+      "event_location": "Multiple NYC locations: The Oculus / World Trade Center, 185 Greenwich St, New York, NY; Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY",
+      "more_info": "official page: https://www.smorgasburg.com/"
+    },
+    {
+      "event_id": 51,
+      "event_date": "2026-05-01",
+      "event_name": "Smorgasburg",
+      "event_desc": "16th season grand reopening Apr 2-5. Open-air food market operating weekly: Fridays at World Trade Center, Saturdays in Williamsburg, and Sundays in Prospect Park; 11:00 AM - 6:00 PM.",
+      "event_location": "Multiple NYC locations: The Oculus / World Trade Center, 185 Greenwich St, New York, NY; Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY",
+      "more_info": "official page: https://www.smorgasburg.com/"
+    },
+    {
+      "event_id": 51,
+      "event_date": "2026-05-08",
+      "event_name": "Smorgasburg",
+      "event_desc": "16th season grand reopening Apr 2-5. Open-air food market operating weekly: Fridays at World Trade Center, Saturdays in Williamsburg, and Sundays in Prospect Park; 11:00 AM - 6:00 PM.",
+      "event_location": "Multiple NYC locations: The Oculus / World Trade Center, 185 Greenwich St, New York, NY; Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY",
+      "more_info": "official page: https://www.smorgasburg.com/"
+    },
+    {
+      "event_id": 51,
+      "event_date": "2026-05-15",
+      "event_name": "Smorgasburg",
+      "event_desc": "16th season grand reopening Apr 2-5. Open-air food market operating weekly: Fridays at World Trade Center, Saturdays in Williamsburg, and Sundays in Prospect Park; 11:00 AM - 6:00 PM.",
+      "event_location": "Multiple NYC locations: The Oculus / World Trade Center, 185 Greenwich St, New York, NY; Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY",
+      "more_info": "official page: https://www.smorgasburg.com/"
+    },
+    {
+      "event_id": 51,
+      "event_date": "2026-05-22",
+      "event_name": "Smorgasburg",
+      "event_desc": "16th season grand reopening Apr 2-5. Open-air food market operating weekly: Fridays at World Trade Center, Saturdays in Williamsburg, and Sundays in Prospect Park; 11:00 AM - 6:00 PM.",
+      "event_location": "Multiple NYC locations: The Oculus / World Trade Center, 185 Greenwich St, New York, NY; Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY",
+      "more_info": "official page: https://www.smorgasburg.com/"
+    },
+    {
+      "event_id": 51,
+      "event_date": "2026-05-29",
+      "event_name": "Smorgasburg",
+      "event_desc": "16th season grand reopening Apr 2-5. Open-air food market operating weekly: Fridays at World Trade Center, Saturdays in Williamsburg, and Sundays in Prospect Park; 11:00 AM - 6:00 PM.",
+      "event_location": "Multiple NYC locations: The Oculus / World Trade Center, 185 Greenwich St, New York, NY; Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY",
+      "more_info": "official page: https://www.smorgasburg.com/"
+    },
+    {
+      "event_id": 51,
+      "event_date": "2026-06-05",
+      "event_name": "Smorgasburg",
+      "event_desc": "16th season grand reopening Apr 2-5. Open-air food market operating weekly: Fridays at World Trade Center, Saturdays in Williamsburg, and Sundays in Prospect Park; 11:00 AM - 6:00 PM.",
+      "event_location": "Multiple NYC locations: The Oculus / World Trade Center, 185 Greenwich St, New York, NY; Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY",
+      "more_info": "official page: https://www.smorgasburg.com/"
+    },
+    {
+      "event_id": 51,
+      "event_date": "2026-06-12",
+      "event_name": "Smorgasburg",
+      "event_desc": "16th season grand reopening Apr 2-5. Open-air food market operating weekly: Fridays at World Trade Center, Saturdays in Williamsburg, and Sundays in Prospect Park; 11:00 AM - 6:00 PM.",
+      "event_location": "Multiple NYC locations: The Oculus / World Trade Center, 185 Greenwich St, New York, NY; Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY",
+      "more_info": "official page: https://www.smorgasburg.com/"
+    },
+    {
+      "event_id": 51,
+      "event_date": "2026-06-19",
+      "event_name": "Smorgasburg",
+      "event_desc": "16th season grand reopening Apr 2-5. Open-air food market operating weekly: Fridays at World Trade Center, Saturdays in Williamsburg, and Sundays in Prospect Park; 11:00 AM - 6:00 PM.",
+      "event_location": "Multiple NYC locations: The Oculus / World Trade Center, 185 Greenwich St, New York, NY; Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY",
+      "more_info": "official page: https://www.smorgasburg.com/"
+    },
+    {
+      "event_id": 51,
+      "event_date": "2026-06-26",
+      "event_name": "Smorgasburg",
+      "event_desc": "16th season grand reopening Apr 2-5. Open-air food market operating weekly: Fridays at World Trade Center, Saturdays in Williamsburg, and Sundays in Prospect Park; 11:00 AM - 6:00 PM.",
+      "event_location": "Multiple NYC locations: The Oculus / World Trade Center, 185 Greenwich St, New York, NY; Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY",
+      "more_info": "official page: https://www.smorgasburg.com/"
+    },
+    {
+      "event_id": 51,
+      "event_date": "2026-07-03",
+      "event_name": "Smorgasburg",
+      "event_desc": "16th season grand reopening Apr 2-5. Open-air food market operating weekly: Fridays at World Trade Center, Saturdays in Williamsburg, and Sundays in Prospect Park; 11:00 AM - 6:00 PM.",
+      "event_location": "Multiple NYC locations: The Oculus / World Trade Center, 185 Greenwich St, New York, NY; Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY",
+      "more_info": "official page: https://www.smorgasburg.com/"
+    },
+    {
+      "event_id": 51,
+      "event_date": "2026-07-10",
+      "event_name": "Smorgasburg",
+      "event_desc": "16th season grand reopening Apr 2-5. Open-air food market operating weekly: Fridays at World Trade Center, Saturdays in Williamsburg, and Sundays in Prospect Park; 11:00 AM - 6:00 PM.",
+      "event_location": "Multiple NYC locations: The Oculus / World Trade Center, 185 Greenwich St, New York, NY; Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY",
+      "more_info": "official page: https://www.smorgasburg.com/"
+    },
+    {
+      "event_id": 51,
+      "event_date": "2026-07-17",
+      "event_name": "Smorgasburg",
+      "event_desc": "16th season grand reopening Apr 2-5. Open-air food market operating weekly: Fridays at World Trade Center, Saturdays in Williamsburg, and Sundays in Prospect Park; 11:00 AM - 6:00 PM.",
+      "event_location": "Multiple NYC locations: The Oculus / World Trade Center, 185 Greenwich St, New York, NY; Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY",
+      "more_info": "official page: https://www.smorgasburg.com/"
+    },
+    {
+      "event_id": 51,
+      "event_date": "2026-07-24",
+      "event_name": "Smorgasburg",
+      "event_desc": "16th season grand reopening Apr 2-5. Open-air food market operating weekly: Fridays at World Trade Center, Saturdays in Williamsburg, and Sundays in Prospect Park; 11:00 AM - 6:00 PM.",
+      "event_location": "Multiple NYC locations: The Oculus / World Trade Center, 185 Greenwich St, New York, NY; Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY",
+      "more_info": "official page: https://www.smorgasburg.com/"
+    },
+    {
+      "event_id": 51,
+      "event_date": "2026-07-31",
+      "event_name": "Smorgasburg",
+      "event_desc": "16th season grand reopening Apr 2-5. Open-air food market operating weekly: Fridays at World Trade Center, Saturdays in Williamsburg, and Sundays in Prospect Park; 11:00 AM - 6:00 PM.",
+      "event_location": "Multiple NYC locations: The Oculus / World Trade Center, 185 Greenwich St, New York, NY; Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY",
+      "more_info": "official page: https://www.smorgasburg.com/"
+    },
+    {
+      "event_id": 51,
+      "event_date": "2026-08-07",
+      "event_name": "Smorgasburg",
+      "event_desc": "16th season grand reopening Apr 2-5. Open-air food market operating weekly: Fridays at World Trade Center, Saturdays in Williamsburg, and Sundays in Prospect Park; 11:00 AM - 6:00 PM.",
+      "event_location": "Multiple NYC locations: The Oculus / World Trade Center, 185 Greenwich St, New York, NY; Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY",
+      "more_info": "official page: https://www.smorgasburg.com/"
+    },
+    {
+      "event_id": 51,
+      "event_date": "2026-08-14",
+      "event_name": "Smorgasburg",
+      "event_desc": "16th season grand reopening Apr 2-5. Open-air food market operating weekly: Fridays at World Trade Center, Saturdays in Williamsburg, and Sundays in Prospect Park; 11:00 AM - 6:00 PM.",
+      "event_location": "Multiple NYC locations: The Oculus / World Trade Center, 185 Greenwich St, New York, NY; Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY",
+      "more_info": "official page: https://www.smorgasburg.com/"
+    },
+    {
+      "event_id": 51,
+      "event_date": "2026-08-21",
+      "event_name": "Smorgasburg",
+      "event_desc": "16th season grand reopening Apr 2-5. Open-air food market operating weekly: Fridays at World Trade Center, Saturdays in Williamsburg, and Sundays in Prospect Park; 11:00 AM - 6:00 PM.",
+      "event_location": "Multiple NYC locations: The Oculus / World Trade Center, 185 Greenwich St, New York, NY; Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY",
+      "more_info": "official page: https://www.smorgasburg.com/"
+    },
+    {
+      "event_id": 51,
+      "event_date": "2026-08-28",
+      "event_name": "Smorgasburg",
+      "event_desc": "16th season grand reopening Apr 2-5. Open-air food market operating weekly: Fridays at World Trade Center, Saturdays in Williamsburg, and Sundays in Prospect Park; 11:00 AM - 6:00 PM.",
+      "event_location": "Multiple NYC locations: The Oculus / World Trade Center, 185 Greenwich St, New York, NY; Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY",
+      "more_info": "official page: https://www.smorgasburg.com/"
+    },
+    {
+      "event_id": 51,
+      "event_date": "2026-09-04",
+      "event_name": "Smorgasburg",
+      "event_desc": "16th season grand reopening Apr 2-5. Open-air food market operating weekly: Fridays at World Trade Center, Saturdays in Williamsburg, and Sundays in Prospect Park; 11:00 AM - 6:00 PM.",
+      "event_location": "Multiple NYC locations: The Oculus / World Trade Center, 185 Greenwich St, New York, NY; Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY",
+      "more_info": "official page: https://www.smorgasburg.com/"
+    },
+    {
+      "event_id": 51,
+      "event_date": "2026-09-11",
+      "event_name": "Smorgasburg",
+      "event_desc": "16th season grand reopening Apr 2-5. Open-air food market operating weekly: Fridays at World Trade Center, Saturdays in Williamsburg, and Sundays in Prospect Park; 11:00 AM - 6:00 PM.",
+      "event_location": "Multiple NYC locations: The Oculus / World Trade Center, 185 Greenwich St, New York, NY; Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY",
+      "more_info": "official page: https://www.smorgasburg.com/"
+    },
+    {
+      "event_id": 51,
+      "event_date": "2026-09-18",
+      "event_name": "Smorgasburg",
+      "event_desc": "16th season grand reopening Apr 2-5. Open-air food market operating weekly: Fridays at World Trade Center, Saturdays in Williamsburg, and Sundays in Prospect Park; 11:00 AM - 6:00 PM.",
+      "event_location": "Multiple NYC locations: The Oculus / World Trade Center, 185 Greenwich St, New York, NY; Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY",
+      "more_info": "official page: https://www.smorgasburg.com/"
+    },
+    {
+      "event_id": 51,
+      "event_date": "2026-09-25",
+      "event_name": "Smorgasburg",
+      "event_desc": "16th season grand reopening Apr 2-5. Open-air food market operating weekly: Fridays at World Trade Center, Saturdays in Williamsburg, and Sundays in Prospect Park; 11:00 AM - 6:00 PM.",
+      "event_location": "Multiple NYC locations: The Oculus / World Trade Center, 185 Greenwich St, New York, NY; Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY",
+      "more_info": "official page: https://www.smorgasburg.com/"
+    },
+    {
+      "event_id": 51,
+      "event_date": "2026-10-02",
+      "event_name": "Smorgasburg",
+      "event_desc": "16th season grand reopening Apr 2-5. Open-air food market operating weekly: Fridays at World Trade Center, Saturdays in Williamsburg, and Sundays in Prospect Park; 11:00 AM - 6:00 PM.",
+      "event_location": "Multiple NYC locations: The Oculus / World Trade Center, 185 Greenwich St, New York, NY; Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY",
+      "more_info": "official page: https://www.smorgasburg.com/"
+    },
+    {
+      "event_id": 51,
+      "event_date": "2026-10-09",
+      "event_name": "Smorgasburg",
+      "event_desc": "16th season grand reopening Apr 2-5. Open-air food market operating weekly: Fridays at World Trade Center, Saturdays in Williamsburg, and Sundays in Prospect Park; 11:00 AM - 6:00 PM.",
+      "event_location": "Multiple NYC locations: The Oculus / World Trade Center, 185 Greenwich St, New York, NY; Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY",
+      "more_info": "official page: https://www.smorgasburg.com/"
+    },
+    {
+      "event_id": 51,
+      "event_date": "2026-10-16",
+      "event_name": "Smorgasburg",
+      "event_desc": "16th season grand reopening Apr 2-5. Open-air food market operating weekly: Fridays at World Trade Center, Saturdays in Williamsburg, and Sundays in Prospect Park; 11:00 AM - 6:00 PM.",
+      "event_location": "Multiple NYC locations: The Oculus / World Trade Center, 185 Greenwich St, New York, NY; Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY",
+      "more_info": "official page: https://www.smorgasburg.com/"
+    },
+    {
+      "event_id": 51,
+      "event_date": "2026-10-23",
+      "event_name": "Smorgasburg",
+      "event_desc": "16th season grand reopening Apr 2-5. Open-air food market operating weekly: Fridays at World Trade Center, Saturdays in Williamsburg, and Sundays in Prospect Park; 11:00 AM - 6:00 PM.",
+      "event_location": "Multiple NYC locations: The Oculus / World Trade Center, 185 Greenwich St, New York, NY; Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY",
+      "more_info": "official page: https://www.smorgasburg.com/"
+    },
+    {
+      "event_id": 51,
+      "event_date": "2026-10-30",
+      "event_name": "Smorgasburg",
+      "event_desc": "16th season grand reopening Apr 2-5. Open-air food market operating weekly: Fridays at World Trade Center, Saturdays in Williamsburg, and Sundays in Prospect Park; 11:00 AM - 6:00 PM.",
+      "event_location": "Multiple NYC locations: The Oculus / World Trade Center, 185 Greenwich St, New York, NY; Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY",
+      "more_info": "official page: https://www.smorgasburg.com/"
+    },
+    {
+      "event_id": 52,
+      "event_date": "2026-04-18",
+      "event_name": "Queens Night Market",
+      "event_desc": "Open-air night market featuring 100+ independent vendors selling food, art, and merchandise, plus cultural performances.",
+      "event_location": "Behind the New York Hall of Science, 47-01 111th St, Flushing Meadows Corona Park, Queens, NY 11368",
+      "more_info": "official page: https://queensnightmarket.com/faq"
+    },
+    {
+      "event_id": 52,
+      "event_date": "2026-04-25",
+      "event_name": "Queens Night Market",
+      "event_desc": "Open-air night market featuring 100+ independent vendors selling food, art, and merchandise, plus cultural performances.",
+      "event_location": "Behind the New York Hall of Science, 47-01 111th St, Flushing Meadows Corona Park, Queens, NY 11368",
+      "more_info": "official page: https://queensnightmarket.com/faq"
+    },
+    {
+      "event_id": 52,
+      "event_date": "2026-05-02",
+      "event_name": "Queens Night Market",
+      "event_desc": "Open-air night market featuring 100+ independent vendors selling food, art, and merchandise, plus cultural performances.",
+      "event_location": "Behind the New York Hall of Science, 47-01 111th St, Flushing Meadows Corona Park, Queens, NY 11368",
+      "more_info": "official page: https://queensnightmarket.com/faq"
+    },
+    {
+      "event_id": 52,
+      "event_date": "2026-05-09",
+      "event_name": "Queens Night Market",
+      "event_desc": "Open-air night market featuring 100+ independent vendors selling food, art, and merchandise, plus cultural performances.",
+      "event_location": "Behind the New York Hall of Science, 47-01 111th St, Flushing Meadows Corona Park, Queens, NY 11368",
+      "more_info": "official page: https://queensnightmarket.com/faq"
+    },
+    {
+      "event_id": 52,
+      "event_date": "2026-05-16",
+      "event_name": "Queens Night Market",
+      "event_desc": "Open-air night market featuring 100+ independent vendors selling food, art, and merchandise, plus cultural performances.",
+      "event_location": "Behind the New York Hall of Science, 47-01 111th St, Flushing Meadows Corona Park, Queens, NY 11368",
+      "more_info": "official page: https://queensnightmarket.com/faq"
+    },
+    {
+      "event_id": 52,
+      "event_date": "2026-05-23",
+      "event_name": "Queens Night Market",
+      "event_desc": "Open-air night market featuring 100+ independent vendors selling food, art, and merchandise, plus cultural performances.",
+      "event_location": "Behind the New York Hall of Science, 47-01 111th St, Flushing Meadows Corona Park, Queens, NY 11368",
+      "more_info": "official page: https://queensnightmarket.com/faq"
+    },
+    {
+      "event_id": 52,
+      "event_date": "2026-05-30",
+      "event_name": "Queens Night Market",
+      "event_desc": "Open-air night market featuring 100+ independent vendors selling food, art, and merchandise, plus cultural performances.",
+      "event_location": "Behind the New York Hall of Science, 47-01 111th St, Flushing Meadows Corona Park, Queens, NY 11368",
+      "more_info": "official page: https://queensnightmarket.com/faq"
+    },
+    {
+      "event_id": 52,
+      "event_date": "2026-06-06",
+      "event_name": "Queens Night Market",
+      "event_desc": "Open-air night market featuring 100+ independent vendors selling food, art, and merchandise, plus cultural performances.",
+      "event_location": "Behind the New York Hall of Science, 47-01 111th St, Flushing Meadows Corona Park, Queens, NY 11368",
+      "more_info": "official page: https://queensnightmarket.com/faq"
+    },
+    {
+      "event_id": 52,
+      "event_date": "2026-06-13",
+      "event_name": "Queens Night Market",
+      "event_desc": "Open-air night market featuring 100+ independent vendors selling food, art, and merchandise, plus cultural performances.",
+      "event_location": "Behind the New York Hall of Science, 47-01 111th St, Flushing Meadows Corona Park, Queens, NY 11368",
+      "more_info": "official page: https://queensnightmarket.com/faq"
+    },
+    {
+      "event_id": 52,
+      "event_date": "2026-06-20",
+      "event_name": "Queens Night Market",
+      "event_desc": "Open-air night market featuring 100+ independent vendors selling food, art, and merchandise, plus cultural performances.",
+      "event_location": "Behind the New York Hall of Science, 47-01 111th St, Flushing Meadows Corona Park, Queens, NY 11368",
+      "more_info": "official page: https://queensnightmarket.com/faq"
+    },
+    {
+      "event_id": 52,
+      "event_date": "2026-06-27",
+      "event_name": "Queens Night Market",
+      "event_desc": "Open-air night market featuring 100+ independent vendors selling food, art, and merchandise, plus cultural performances.",
+      "event_location": "Behind the New York Hall of Science, 47-01 111th St, Flushing Meadows Corona Park, Queens, NY 11368",
+      "more_info": "official page: https://queensnightmarket.com/faq"
+    },
+    {
+      "event_id": 52,
+      "event_date": "2026-07-04",
+      "event_name": "Queens Night Market",
+      "event_desc": "Open-air night market featuring 100+ independent vendors selling food, art, and merchandise, plus cultural performances.",
+      "event_location": "Behind the New York Hall of Science, 47-01 111th St, Flushing Meadows Corona Park, Queens, NY 11368",
+      "more_info": "official page: https://queensnightmarket.com/faq"
+    },
+    {
+      "event_id": 52,
+      "event_date": "2026-07-11",
+      "event_name": "Queens Night Market",
+      "event_desc": "Open-air night market featuring 100+ independent vendors selling food, art, and merchandise, plus cultural performances.",
+      "event_location": "Behind the New York Hall of Science, 47-01 111th St, Flushing Meadows Corona Park, Queens, NY 11368",
+      "more_info": "official page: https://queensnightmarket.com/faq"
+    },
+    {
+      "event_id": 52,
+      "event_date": "2026-07-18",
+      "event_name": "Queens Night Market",
+      "event_desc": "Open-air night market featuring 100+ independent vendors selling food, art, and merchandise, plus cultural performances.",
+      "event_location": "Behind the New York Hall of Science, 47-01 111th St, Flushing Meadows Corona Park, Queens, NY 11368",
+      "more_info": "official page: https://queensnightmarket.com/faq"
+    },
+    {
+      "event_id": 52,
+      "event_date": "2026-07-25",
+      "event_name": "Queens Night Market",
+      "event_desc": "Open-air night market featuring 100+ independent vendors selling food, art, and merchandise, plus cultural performances.",
+      "event_location": "Behind the New York Hall of Science, 47-01 111th St, Flushing Meadows Corona Park, Queens, NY 11368",
+      "more_info": "official page: https://queensnightmarket.com/faq"
+    },
+    {
+      "event_id": 52,
+      "event_date": "2026-08-01",
+      "event_name": "Queens Night Market",
+      "event_desc": "Open-air night market featuring 100+ independent vendors selling food, art, and merchandise, plus cultural performances.",
+      "event_location": "Behind the New York Hall of Science, 47-01 111th St, Flushing Meadows Corona Park, Queens, NY 11368",
+      "more_info": "official page: https://queensnightmarket.com/faq"
+    },
+    {
+      "event_id": 52,
+      "event_date": "2026-08-08",
+      "event_name": "Queens Night Market",
+      "event_desc": "Open-air night market featuring 100+ independent vendors selling food, art, and merchandise, plus cultural performances.",
+      "event_location": "Behind the New York Hall of Science, 47-01 111th St, Flushing Meadows Corona Park, Queens, NY 11368",
+      "more_info": "official page: https://queensnightmarket.com/faq"
+    },
+    {
+      "event_id": 52,
+      "event_date": "2026-08-15",
+      "event_name": "Queens Night Market",
+      "event_desc": "Open-air night market featuring 100+ independent vendors selling food, art, and merchandise, plus cultural performances.",
+      "event_location": "Behind the New York Hall of Science, 47-01 111th St, Flushing Meadows Corona Park, Queens, NY 11368",
+      "more_info": "official page: https://queensnightmarket.com/faq"
+    },
+    {
+      "event_id": 52,
+      "event_date": "2026-08-22",
+      "event_name": "Queens Night Market",
+      "event_desc": "Open-air night market featuring 100+ independent vendors selling food, art, and merchandise, plus cultural performances.",
+      "event_location": "Behind the New York Hall of Science, 47-01 111th St, Flushing Meadows Corona Park, Queens, NY 11368",
+      "more_info": "official page: https://queensnightmarket.com/faq"
+    },
+    {
+      "event_id": 52,
+      "event_date": "2026-08-29",
+      "event_name": "Queens Night Market",
+      "event_desc": "Open-air night market featuring 100+ independent vendors selling food, art, and merchandise, plus cultural performances.",
+      "event_location": "Behind the New York Hall of Science, 47-01 111th St, Flushing Meadows Corona Park, Queens, NY 11368",
+      "more_info": "official page: https://queensnightmarket.com/faq"
+    },
+    {
+      "event_id": 52,
+      "event_date": "2026-09-05",
+      "event_name": "Queens Night Market",
+      "event_desc": "Open-air night market featuring 100+ independent vendors selling food, art, and merchandise, plus cultural performances.",
+      "event_location": "Behind the New York Hall of Science, 47-01 111th St, Flushing Meadows Corona Park, Queens, NY 11368",
+      "more_info": "official page: https://queensnightmarket.com/faq"
+    },
+    {
+      "event_id": 52,
+      "event_date": "2026-09-12",
+      "event_name": "Queens Night Market",
+      "event_desc": "Open-air night market featuring 100+ independent vendors selling food, art, and merchandise, plus cultural performances.",
+      "event_location": "Behind the New York Hall of Science, 47-01 111th St, Flushing Meadows Corona Park, Queens, NY 11368",
+      "more_info": "official page: https://queensnightmarket.com/faq"
+    },
+    {
+      "event_id": 52,
+      "event_date": "2026-09-19",
+      "event_name": "Queens Night Market",
+      "event_desc": "Open-air night market featuring 100+ independent vendors selling food, art, and merchandise, plus cultural performances.",
+      "event_location": "Behind the New York Hall of Science, 47-01 111th St, Flushing Meadows Corona Park, Queens, NY 11368",
+      "more_info": "official page: https://queensnightmarket.com/faq"
+    },
+    {
+      "event_id": 52,
+      "event_date": "2026-09-26",
+      "event_name": "Queens Night Market",
+      "event_desc": "Open-air night market featuring 100+ independent vendors selling food, art, and merchandise, plus cultural performances.",
+      "event_location": "Behind the New York Hall of Science, 47-01 111th St, Flushing Meadows Corona Park, Queens, NY 11368",
+      "more_info": "official page: https://queensnightmarket.com/faq"
+    },
+    {
+      "event_id": 52,
+      "event_date": "2026-10-03",
+      "event_name": "Queens Night Market",
+      "event_desc": "Open-air night market featuring 100+ independent vendors selling food, art, and merchandise, plus cultural performances.",
+      "event_location": "Behind the New York Hall of Science, 47-01 111th St, Flushing Meadows Corona Park, Queens, NY 11368",
+      "more_info": "official page: https://queensnightmarket.com/faq"
+    },
+    {
+      "event_id": 52,
+      "event_date": "2026-10-10",
+      "event_name": "Queens Night Market",
+      "event_desc": "Open-air night market featuring 100+ independent vendors selling food, art, and merchandise, plus cultural performances.",
+      "event_location": "Behind the New York Hall of Science, 47-01 111th St, Flushing Meadows Corona Park, Queens, NY 11368",
+      "more_info": "official page: https://queensnightmarket.com/faq"
+    },
+    {
+      "event_id": 52,
+      "event_date": "2026-10-17",
+      "event_name": "Queens Night Market",
+      "event_desc": "Open-air night market featuring 100+ independent vendors selling food, art, and merchandise, plus cultural performances.",
+      "event_location": "Behind the New York Hall of Science, 47-01 111th St, Flushing Meadows Corona Park, Queens, NY 11368",
+      "more_info": "official page: https://queensnightmarket.com/faq"
+    },
+    {
+      "event_id": 52,
+      "event_date": "2026-10-24",
+      "event_name": "Queens Night Market",
+      "event_desc": "Open-air night market featuring 100+ independent vendors selling food, art, and merchandise, plus cultural performances.",
+      "event_location": "Behind the New York Hall of Science, 47-01 111th St, Flushing Meadows Corona Park, Queens, NY 11368",
+      "more_info": "official page: https://queensnightmarket.com/faq"
+    },
+    {
+      "event_id": 52,
+      "event_date": "2026-10-31",
+      "event_name": "Queens Night Market",
+      "event_desc": "Open-air night market featuring 100+ independent vendors selling food, art, and merchandise, plus cultural performances.",
+      "event_location": "Behind the New York Hall of Science, 47-01 111th St, Flushing Meadows Corona Park, Queens, NY 11368",
+      "more_info": "official page: https://queensnightmarket.com/faq"
+    },
+    {
+      "event_id": 53,
+      "event_date": "Summer 2026 (dates TBA)",
+      "event_name": "NYC Restaurant Week (Summer 2026)",
+      "event_desc": "Official citywide summer prix-fixe dining program. The official NYC Restaurant Week site confirms a Summer 2026 return, but exact dates have not yet been posted.",
+      "event_location": "Various participating restaurants across New York City",
+      "more_info": "official page: https://www.nyctourism.com/restaurant-week/"
+    },
+    {
+      "event_id": 54,
+      "event_date": "Various dates in 2026 (3-day runs, Tuesday-Thursday)",
+      "event_name": "Ops Guest Pizza Series",
+      "event_desc": "Verified 2026 guest pizza collaboration series at Ops East Village; official Instagram confirms ongoing guest-pizza runs in 2026.",
+      "event_location": "Ops East Village, 176 2nd Ave, New York, NY 10003",
+      "more_info": "official page: https://www.opsbk.com/east-village"
+    }
+  ]
+}
