@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-07-08T18:00:00Z",
+  "ttl_seconds": 600,
+  "restaurants": [
+    {
+      "trending_id": "tr_9009001",
+      "rank": 1,
+      "restaurant_id": 9009001,
+      "restaurant_name": "ZZ Test Trending Diner",
+      "restaurant_address": "123 Test Ave",
+      "restaurant_neighborhood": "SoHo",
+      "restaurant_borough": "Manhattan",
+      "cuisine_category": "American",
+      "cuisine": "diner",
+      "price_level": "$$",
+      "latitude": 40.7233,
+      "longitude": -74.0030,
+      "google_place_id": "ChIJ_TEST_DUMMY_0001",
+      "google_rating": 4.9,
+      "quality_score": 0.99,
+      "yt_video_count": 5,
+      "insight": null,
+      "trending_reason": "Dummy entry for end-to-end publish test"
+    }
+  ]
+}
