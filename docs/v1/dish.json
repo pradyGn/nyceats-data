@@ -1,0 +1,119 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-16T10:00:00Z",
+  "ttl_seconds": 600,
+  "issues": [
+    {
+      "number": 118,
+      "date": "2026-08-16",
+      "neighborhood": "CITYWIDE",
+      "dept": "DEPT. OF SCALE",
+      "hed": "What Xi’an kept while it got big",
+      "dek": "Expansion cost it something, and far less than usual.",
+      "desk": "THE NOODLE DESK",
+      "read_time": "2 MIN READ",
+      "photo_caption": "CUMIN LAMB, CHILE OIL, CHINATOWN",
+      "grafs": [
+        "Xi’an Famous Foods is no longer a secret and has not been one for years. What began small now runs counters across the city, which is normally the point in the story where a kitchen learns to charge more for less.",
+        "Ask anyone who ate there a decade ago and you will hear that something slipped. Ask the same person whether it still holds up and the answer is usually yes. That is a narrow verdict, and for the size of the expansion it is a remarkable one.",
+        "Getting good is hard. Getting big is harder. Doing the second without undoing the first is the part almost nobody manages."
+      ],
+      "pull": "“Getting good is hard. Getting big is harder.”",
+      "spots": [
+        {
+          "name": "Xi’an Famous Foods",
+          "tag": "NOODLES",
+          "hood": "CHINATOWN",
+          "note": "Cumin lamb, chile oil",
+          "restaurant_id": null
+        }
+      ],
+      "source_post_id": "1sofdgd",
+      "source_permalink": "/r/FoodNYC/comments/1sofdgd/lets_hear_it_for_xians_famous/"
+    },
+    {
+      "number": 117,
+      "date": "2026-08-15",
+      "neighborhood": "CHINATOWN",
+      "dept": "DEPT. OF THE COUNTER",
+      "hed": "The jerky counter that rations its own regulars",
+      "dek": "Grilled to order, sold by weight, dangerously near the office.",
+      "desk": "THE SNACK DESK",
+      "read_time": "2 MIN READ",
+      "photo_caption": "FRESH OFF THE GRILL, CHINATOWN",
+      "grafs": [
+        "Malaysia Beef Jerky sells beef, chicken and pork by weight in Chinatown. It is grilled fresh rather than pulled from a bag. Warm, faintly smoky, sweet played against salt, and tender enough that the word jerky undersells it.",
+        "Its regulars describe a specific occupational hazard, which is working nearby. One of them settled on every other Friday as a compromise with himself, and kept to it. That is the kind of detail that tells you more than a rating would.",
+        "The shop will shrink-wrap a bag so it survives the trip home. Whether it survives the walk to the train is a separate question."
+      ],
+      "pull": "“It is grilled fresh rather than pulled from a bag.”",
+      "spots": [
+        {
+          "name": "Malaysia Beef Jerky",
+          "tag": "JERKY",
+          "hood": "CHINATOWN",
+          "note": "Sold by weight, grilled fresh",
+          "restaurant_id": null
+        }
+      ],
+      "source_post_id": "1qlqrrf",
+      "source_permalink": "/r/FoodNYC/comments/1qlqrrf/malaysia_beef_jerky_fresh_grilled_warm_a_bit_of_a/"
+    },
+    {
+      "number": 116,
+      "date": "2026-08-14",
+      "neighborhood": "WILLIAMSBURG",
+      "dept": "DEPT. OF THE CORNER SLICE",
+      "hed": "In praise of the pizzeria with no line",
+      "dek": "The slice worth having is usually the one nearby.",
+      "desk": "THE BLOCK DESK",
+      "read_time": "2 MIN READ",
+      "photo_caption": "A RESTED SLICE, BACK THROUGH THE OVEN",
+      "grafs": [
+        "Every neighborhood in this city keeps a pizzeria that nobody has written about. It is dependable, it is close, and on most nights you can walk in and walk out again. Sal’s in Williamsburg is one of them.",
+        "The case for these rooms is not that they beat the celebrated ones. Turnover matters more than reputation. A counter busy enough to keep the pies moving will out-slice a shrine with an hour’s wait.",
+        "The trade runs both ways, because too little turnover and the slice just sits. The good ones are busy without being famous, which is a narrow band and the reason the city is full of them."
+      ],
+      "pull": "“Turnover matters more than reputation.”",
+      "spots": [
+        {
+          "name": "Sal’s Pizzeria",
+          "tag": "PIZZA",
+          "hood": "WILLIAMSBURG",
+          "note": "The slice with no line",
+          "restaurant_id": null
+        }
+      ],
+      "source_post_id": "1jiqn7n",
+      "source_permalink": "/r/FoodNYC/comments/1jiqn7n/shoutout_to_the_unhyped_independent_neighborhood/"
+    },
+    {
+      "number": 115,
+      "date": "2026-08-13",
+      "neighborhood": "THE BRONX",
+      "dept": "DEPT. OF PASTRAMI",
+      "hed": "The best deli in the city is uptown",
+      "dek": "Liebman’s has the pastrami and none of the pilgrimage.",
+      "desk": "THE DELI DESK",
+      "read_time": "2 MIN READ",
+      "photo_caption": "PASTRAMI AND CORNED BEEF, PILED HIGH",
+      "grafs": [
+        "Liebman’s Deli has been feeding the Bronx for decades without ever being treated as a landmark, which its regulars have concluded is a matter of geography. The pastrami stands with anything downtown and costs a little less.",
+        "The house special arrives as pastrami and corned beef piled onto bread in a quantity that reads as a dare. The counter also sends out extra bread, so you can rebuild the pile into as many sandwiches as your judgment allows.",
+        "Families have been going for generations, and the college kids ask for it first when they come home. Every borough has a room like this. Only one of them gets the tourists."
+      ],
+      "pull": "“Every borough has a room like this. Only one of them gets the tourists.”",
+      "spots": [
+        {
+          "name": "Liebman’s Deli",
+          "tag": "DELI",
+          "hood": "THE BRONX",
+          "note": "Pastrami, and the free bread",
+          "restaurant_id": null
+        }
+      ],
+      "source_post_id": "1j9ucui",
+      "source_permalink": "/r/FoodNYC/comments/1j9ucui/liebmans_deli_in_the_bronx_god_damn_my_socks_were/"
+    }
+  ]
+}
