@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-05-25T03:47:31Z",
+  "generated_at": "2026-09-14T19:09:27Z",
   "ttl_seconds": 600,
   "events": [
     {
@@ -575,7 +575,7 @@
       "event_id": 31,
       "event_date": "2026-06-06",
       "event_name": "June 6th | JAPAN Fes New York @East Village",
-      "event_desc": "10:00 AM - 6:00 PM; Japanese street food festival. Added from the verified 2026 June schedule.",
+      "event_desc": "10:00 AM - 6:00 PM; Japanese street food festival.",
       "event_location": "East Village, New York, NY",
       "more_info": "trusted source: https://www.timeout.com/newyork/news/this-massive-japanese-street-food-festival-is-almost-back-031226"
     },
@@ -591,7 +591,7 @@
       "event_id": 33,
       "event_date": "2026-06-07",
       "event_name": "June 7th | JAPAN Fes New York @Upper West Side",
-      "event_desc": "10:00 AM - 6:00 PM; Japanese street food festival. Added from the verified 2026 June schedule.",
+      "event_desc": "10:00 AM - 6:00 PM; Japanese street food festival.",
       "event_location": "Upper West Side, New York, NY",
       "more_info": "trusted source: https://www.timeout.com/newyork/news/this-massive-japanese-street-food-festival-is-almost-back-031226"
     },
@@ -599,7 +599,7 @@
       "event_id": 34,
       "event_date": "2026-06-14",
       "event_name": "June 14th | JAPAN Fes New York @East Village",
-      "event_desc": "10:00 AM - 6:00 PM; Japanese street food festival. Added from the verified 2026 June schedule.",
+      "event_desc": "10:00 AM - 6:00 PM; Japanese street food festival.",
       "event_location": "East Village, New York, NY",
       "more_info": "trusted source: https://www.timeout.com/newyork/news/this-massive-japanese-street-food-festival-is-almost-back-031226"
     },
@@ -607,7 +607,7 @@
       "event_id": 35,
       "event_date": "2026-06-21",
       "event_name": "June 21st | JAPAN Fes New York @Brooklyn",
-      "event_desc": "10:00 AM - 6:00 PM; Japanese street food festival. Added from the verified 2026 June schedule.",
+      "event_desc": "10:00 AM - 6:00 PM; Japanese street food festival.",
       "event_location": "Brooklyn, New York",
       "more_info": "trusted source: https://www.timeout.com/newyork/news/this-massive-japanese-street-food-festival-is-almost-back-031226"
     },
@@ -623,7 +623,7 @@
       "event_id": 37,
       "event_date": "2026-06-27",
       "event_name": "June 27th | JAPAN Fes New York @Times Square",
-      "event_desc": "10:00 AM - 6:00 PM; Japanese street food festival. Added from the verified 2026 June schedule.",
+      "event_desc": "10:00 AM - 6:00 PM; Japanese street food festival.",
       "event_location": "Times Square, New York, NY",
       "more_info": "trusted source: https://www.timeout.com/newyork/news/this-massive-japanese-street-food-festival-is-almost-back-031226"
     },
@@ -631,7 +631,7 @@
       "event_id": 38,
       "event_date": "2026-06-28",
       "event_name": "June 28th | JAPAN Fes New York @Astoria",
-      "event_desc": "10:00 AM - 6:00 PM; Japanese street food festival. Added from the verified 2026 June schedule.",
+      "event_desc": "10:00 AM - 6:00 PM; Japanese street food festival.",
       "event_location": "Astoria, Queens, NY",
       "more_info": "trusted source: https://www.timeout.com/newyork/news/this-massive-japanese-street-food-festival-is-almost-back-031226"
     },
@@ -701,10 +701,10 @@
     },
     {
       "event_id": 41,
-      "event_date": "2026-07-18",
+      "event_date": "2026-07-11",
       "event_name": "Family Style New York (Family Style Food Festival) 2026",
-      "event_desc": "NYC date announced; venue, time, and ticket details still TBA on the official site.",
-      "event_location": "New York City venue TBA",
+      "event_desc": "Food and streetwear festival from Complex, with food vendors, music and streetwear brands at Pier 36.",
+      "event_location": "Pier 36, New York, NY",
       "more_info": "official page: https://www.familystylefest.com/"
     },
     {
@@ -727,7 +727,7 @@
       "event_id": 44,
       "event_date": "2026-09-17",
       "event_name": "Feast of San Gennaro 2026",
-      "event_desc": "Little Italy street festival. Official site lists the 2026 date range, but daily hours were not fully captured in the PDF and should be rechecked closer to September.",
+      "event_desc": "Little Italy's street festival on Mulberry Street, with events every day of the feast from Thursday, Sep 17 through Sunday, Sep 27.",
       "event_location": "Mulberry St and surrounding blocks, Little Italy, New York, NY",
       "more_info": "official page: https://sangennaronyc.org/"
     },
@@ -735,7 +735,7 @@
       "event_id": 44,
       "event_date": "2026-09-18",
       "event_name": "Feast of San Gennaro 2026",
-      "event_desc": "Little Italy street festival. Official site lists the 2026 date range, but daily hours were not fully captured in the PDF and should be rechecked closer to September.",
+      "event_desc": "Little Italy's street festival on Mulberry Street, with events every day of the feast from Thursday, Sep 17 through Sunday, Sep 27.",
       "event_location": "Mulberry St and surrounding blocks, Little Italy, New York, NY",
       "more_info": "official page: https://sangennaronyc.org/"
     },
@@ -743,7 +743,7 @@
       "event_id": 44,
       "event_date": "2026-09-19",
       "event_name": "Feast of San Gennaro 2026",
-      "event_desc": "Little Italy street festival. Official site lists the 2026 date range, but daily hours were not fully captured in the PDF and should be rechecked closer to September.",
+      "event_desc": "Little Italy's street festival on Mulberry Street, with events every day of the feast from Thursday, Sep 17 through Sunday, Sep 27.",
       "event_location": "Mulberry St and surrounding blocks, Little Italy, New York, NY",
       "more_info": "official page: https://sangennaronyc.org/"
     },
@@ -751,7 +751,7 @@
       "event_id": 44,
       "event_date": "2026-09-20",
       "event_name": "Feast of San Gennaro 2026",
-      "event_desc": "Little Italy street festival. Official site lists the 2026 date range, but daily hours were not fully captured in the PDF and should be rechecked closer to September.",
+      "event_desc": "Little Italy's street festival on Mulberry Street, with events every day of the feast from Thursday, Sep 17 through Sunday, Sep 27.",
       "event_location": "Mulberry St and surrounding blocks, Little Italy, New York, NY",
       "more_info": "official page: https://sangennaronyc.org/"
     },
@@ -759,7 +759,7 @@
       "event_id": 44,
       "event_date": "2026-09-21",
       "event_name": "Feast of San Gennaro 2026",
-      "event_desc": "Little Italy street festival. Official site lists the 2026 date range, but daily hours were not fully captured in the PDF and should be rechecked closer to September.",
+      "event_desc": "Little Italy's street festival on Mulberry Street, with events every day of the feast from Thursday, Sep 17 through Sunday, Sep 27.",
       "event_location": "Mulberry St and surrounding blocks, Little Italy, New York, NY",
       "more_info": "official page: https://sangennaronyc.org/"
     },
@@ -767,7 +767,7 @@
       "event_id": 44,
       "event_date": "2026-09-22",
       "event_name": "Feast of San Gennaro 2026",
-      "event_desc": "Little Italy street festival. Official site lists the 2026 date range, but daily hours were not fully captured in the PDF and should be rechecked closer to September.",
+      "event_desc": "Little Italy's street festival on Mulberry Street, with events every day of the feast from Thursday, Sep 17 through Sunday, Sep 27.",
       "event_location": "Mulberry St and surrounding blocks, Little Italy, New York, NY",
       "more_info": "official page: https://sangennaronyc.org/"
     },
@@ -775,7 +775,7 @@
       "event_id": 44,
       "event_date": "2026-09-23",
       "event_name": "Feast of San Gennaro 2026",
-      "event_desc": "Little Italy street festival. Official site lists the 2026 date range, but daily hours were not fully captured in the PDF and should be rechecked closer to September.",
+      "event_desc": "Little Italy's street festival on Mulberry Street, with events every day of the feast from Thursday, Sep 17 through Sunday, Sep 27.",
       "event_location": "Mulberry St and surrounding blocks, Little Italy, New York, NY",
       "more_info": "official page: https://sangennaronyc.org/"
     },
@@ -783,7 +783,7 @@
       "event_id": 44,
       "event_date": "2026-09-24",
       "event_name": "Feast of San Gennaro 2026",
-      "event_desc": "Little Italy street festival. Official site lists the 2026 date range, but daily hours were not fully captured in the PDF and should be rechecked closer to September.",
+      "event_desc": "Little Italy's street festival on Mulberry Street, with events every day of the feast from Thursday, Sep 17 through Sunday, Sep 27.",
       "event_location": "Mulberry St and surrounding blocks, Little Italy, New York, NY",
       "more_info": "official page: https://sangennaronyc.org/"
     },
@@ -791,7 +791,7 @@
       "event_id": 44,
       "event_date": "2026-09-25",
       "event_name": "Feast of San Gennaro 2026",
-      "event_desc": "Little Italy street festival. Official site lists the 2026 date range, but daily hours were not fully captured in the PDF and should be rechecked closer to September.",
+      "event_desc": "Little Italy's street festival on Mulberry Street, with events every day of the feast from Thursday, Sep 17 through Sunday, Sep 27.",
       "event_location": "Mulberry St and surrounding blocks, Little Italy, New York, NY",
       "more_info": "official page: https://sangennaronyc.org/"
     },
@@ -799,7 +799,7 @@
       "event_id": 44,
       "event_date": "2026-09-26",
       "event_name": "Feast of San Gennaro 2026",
-      "event_desc": "Little Italy street festival. Official site lists the 2026 date range, but daily hours were not fully captured in the PDF and should be rechecked closer to September.",
+      "event_desc": "Little Italy's street festival on Mulberry Street, with events every day of the feast from Thursday, Sep 17 through Sunday, Sep 27.",
       "event_location": "Mulberry St and surrounding blocks, Little Italy, New York, NY",
       "more_info": "official page: https://sangennaronyc.org/"
     },
@@ -807,13 +807,13 @@
       "event_id": 44,
       "event_date": "2026-09-27",
       "event_name": "Feast of San Gennaro 2026",
-      "event_desc": "Little Italy street festival. Official site lists the 2026 date range, but daily hours were not fully captured in the PDF and should be rechecked closer to September.",
+      "event_desc": "Little Italy's street festival on Mulberry Street, with events every day of the feast from Thursday, Sep 17 through Sunday, Sep 27.",
       "event_location": "Mulberry St and surrounding blocks, Little Italy, New York, NY",
       "more_info": "official page: https://sangennaronyc.org/"
     },
     {
       "event_id": 45,
-      "event_date": "2026-09-19",
+      "event_date": "2026-10-03",
       "event_name": "Latin Food Festival NYC (Latin Food Fest) 2026",
       "event_desc": "12:00 PM - 8:00 PM daily; food festival with free entry / RSVP and VIP options. Exact Bronx venue still TBA.",
       "event_location": "Uptown / The Bronx venue TBA",
@@ -821,7 +821,7 @@
     },
     {
       "event_id": 45,
-      "event_date": "2026-09-20",
+      "event_date": "2026-10-04",
       "event_name": "Latin Food Festival NYC (Latin Food Fest) 2026",
       "event_desc": "12:00 PM - 8:00 PM daily; food festival with free entry / RSVP and VIP options. Exact Bronx venue still TBA.",
       "event_location": "Uptown / The Bronx venue TBA",
@@ -829,27 +829,27 @@
     },
     {
       "event_id": 46,
-      "event_date": "2026-09-25",
+      "event_date": "2026-10-03",
       "event_name": "Creole Food Festival - New York City 2026 Grand Tasting",
-      "event_desc": "Weekend festival; Grand Tasting on Sat Sep 26 from 3:00 PM - 8:00 PM ET, with VIP hour 2:00 PM - 3:00 PM.",
+      "event_desc": "Creole and Louisiana food festival Grand Tasting on Saturday, Oct 3, 3:00 PM - 8:00 PM, with a VIP hour at 2:00 PM.",
       "event_location": "Emily Roebling Plaza / Time Out Market partnership, DUMBO, Brooklyn, NY",
       "more_info": "official page: https://www.creolefoodfestival.com/newyorkcity"
     },
     {
-      "event_id": 46,
-      "event_date": "2026-09-26",
-      "event_name": "Creole Food Festival - New York City 2026 Grand Tasting",
-      "event_desc": "Weekend festival; Grand Tasting on Sat Sep 26 from 3:00 PM - 8:00 PM ET, with VIP hour 2:00 PM - 3:00 PM.",
-      "event_location": "Emily Roebling Plaza / Time Out Market partnership, DUMBO, Brooklyn, NY",
-      "more_info": "official page: https://www.creolefoodfestival.com/newyorkcity"
+      "event_id": 59,
+      "event_date": "2027-02-21",
+      "event_name": "29th Annual Chinese New Year Parade & Festival Booths",
+      "event_desc": "Chinatown's Lunar New Year parade and festival booths, organized by Better Chinatown USA. The parade starts at 1:00 PM on Sunday, Feb 21, 2027. A separate Firecracker Ceremony is held on Saturday, Feb 6.",
+      "event_location": "Bayard St between Mulberry St and Mott St, Chinatown, New York, NY",
+      "more_info": "official page: https://betterchinatown.com/new-york-city-2027-lunar-new-year-parade-dates-announced/"
     },
     {
-      "event_id": 46,
-      "event_date": "2026-09-27",
-      "event_name": "Creole Food Festival - New York City 2026 Grand Tasting",
-      "event_desc": "Weekend festival; Grand Tasting on Sat Sep 26 from 3:00 PM - 8:00 PM ET, with VIP hour 2:00 PM - 3:00 PM.",
-      "event_location": "Emily Roebling Plaza / Time Out Market partnership, DUMBO, Brooklyn, NY",
-      "more_info": "official page: https://www.creolefoodfestival.com/newyorkcity"
+      "event_id": 60,
+      "event_date": "2027-03-20",
+      "event_name": "Holi at the South St Seaport 2027",
+      "event_desc": "Holi color festival at South Street Seaport, presented by The Culture Tree. Times and details not yet announced.",
+      "event_location": "Seaport Square, South Street Seaport, New York, NY 10038",
+      "more_info": "official page: https://theculturetree.com/events"
     },
     {
       "event_id": 47,
@@ -868,18 +868,18 @@
       "more_info": "official page: https://www.bronxnightmarket.com/"
     },
     {
-      "event_id": 49,
-      "event_date": "2026-10-14",
-      "event_name": "New York City Wine & Food Festival (NYCWFF)",
-      "event_desc": "Five-day city food festival with signature tastings, dinners, chef appearances, and Food Network talent. Note: current official 2026 dates are Oct 14-18.",
-      "event_location": "Seaport neighborhood, Lower Manhattan, New York, NY",
-      "more_info": "official page: https://nycwff.org/"
+      "event_id": 89,
+      "event_date": "2026-05-02",
+      "event_name": "May 2nd | JAPAN Fes New York @Upper East Side",
+      "event_desc": "10:00 AM - 6:00 PM; Japanese street food festival.",
+      "event_location": "Upper East Side, New York, NY",
+      "more_info": "official page: https://www.japanfes.com/new-blog/2026/may-2nd-ues"
     },
     {
       "event_id": 49,
       "event_date": "2026-10-15",
       "event_name": "New York City Wine & Food Festival (NYCWFF)",
-      "event_desc": "Five-day city food festival with signature tastings, dinners, chef appearances, and Food Network talent. Note: current official 2026 dates are Oct 14-18.",
+      "event_desc": "Four-day city food festival with signature tastings, dinners, chef appearances, and Food Network talent.",
       "event_location": "Seaport neighborhood, Lower Manhattan, New York, NY",
       "more_info": "official page: https://nycwff.org/"
     },
@@ -887,7 +887,7 @@
       "event_id": 49,
       "event_date": "2026-10-16",
       "event_name": "New York City Wine & Food Festival (NYCWFF)",
-      "event_desc": "Five-day city food festival with signature tastings, dinners, chef appearances, and Food Network talent. Note: current official 2026 dates are Oct 14-18.",
+      "event_desc": "Four-day city food festival with signature tastings, dinners, chef appearances, and Food Network talent.",
       "event_location": "Seaport neighborhood, Lower Manhattan, New York, NY",
       "more_info": "official page: https://nycwff.org/"
     },
@@ -895,7 +895,7 @@
       "event_id": 49,
       "event_date": "2026-10-17",
       "event_name": "New York City Wine & Food Festival (NYCWFF)",
-      "event_desc": "Five-day city food festival with signature tastings, dinners, chef appearances, and Food Network talent. Note: current official 2026 dates are Oct 14-18.",
+      "event_desc": "Four-day city food festival with signature tastings, dinners, chef appearances, and Food Network talent.",
       "event_location": "Seaport neighborhood, Lower Manhattan, New York, NY",
       "more_info": "official page: https://nycwff.org/"
     },
@@ -903,7 +903,7 @@
       "event_id": 49,
       "event_date": "2026-10-18",
       "event_name": "New York City Wine & Food Festival (NYCWFF)",
-      "event_desc": "Five-day city food festival with signature tastings, dinners, chef appearances, and Food Network talent. Note: current official 2026 dates are Oct 14-18.",
+      "event_desc": "Four-day city food festival with signature tastings, dinners, chef appearances, and Food Network talent.",
       "event_location": "Seaport neighborhood, Lower Manhattan, New York, NY",
       "more_info": "official page: https://nycwff.org/"
     },
@@ -943,256 +943,256 @@
       "event_id": 51,
       "event_date": "2026-04-02",
       "event_name": "Smorgasburg",
-      "event_desc": "16th season grand reopening Apr 2-5. Open-air food market operating weekly: Fridays at World Trade Center, Saturdays in Williamsburg, and Sundays in Prospect Park; 11:00 AM - 6:00 PM.",
-      "event_location": "Multiple NYC locations: The Oculus / World Trade Center, 185 Greenwich St, New York, NY; Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY",
+      "event_desc": "Open-air food market with dozens of local vendors. Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM, and Friday to Sunday in Central Park, 12:00 PM - 8:00 PM. The World Trade Center market has closed for the season.",
+      "event_location": "Multiple NYC locations: Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY; Central Park, 36 Central Park W, New York, NY",
       "more_info": "official page: https://www.smorgasburg.com/"
     },
     {
       "event_id": 51,
       "event_date": "2026-04-03",
       "event_name": "Smorgasburg",
-      "event_desc": "16th season grand reopening Apr 2-5. Open-air food market operating weekly: Fridays at World Trade Center, Saturdays in Williamsburg, and Sundays in Prospect Park; 11:00 AM - 6:00 PM.",
-      "event_location": "Multiple NYC locations: The Oculus / World Trade Center, 185 Greenwich St, New York, NY; Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY",
+      "event_desc": "Open-air food market with dozens of local vendors. Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM, and Friday to Sunday in Central Park, 12:00 PM - 8:00 PM. The World Trade Center market has closed for the season.",
+      "event_location": "Multiple NYC locations: Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY; Central Park, 36 Central Park W, New York, NY",
       "more_info": "official page: https://www.smorgasburg.com/"
     },
     {
       "event_id": 51,
       "event_date": "2026-04-10",
       "event_name": "Smorgasburg",
-      "event_desc": "16th season grand reopening Apr 2-5. Open-air food market operating weekly: Fridays at World Trade Center, Saturdays in Williamsburg, and Sundays in Prospect Park; 11:00 AM - 6:00 PM.",
-      "event_location": "Multiple NYC locations: The Oculus / World Trade Center, 185 Greenwich St, New York, NY; Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY",
+      "event_desc": "Open-air food market with dozens of local vendors. Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM, and Friday to Sunday in Central Park, 12:00 PM - 8:00 PM. The World Trade Center market has closed for the season.",
+      "event_location": "Multiple NYC locations: Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY; Central Park, 36 Central Park W, New York, NY",
       "more_info": "official page: https://www.smorgasburg.com/"
     },
     {
       "event_id": 51,
       "event_date": "2026-04-17",
       "event_name": "Smorgasburg",
-      "event_desc": "16th season grand reopening Apr 2-5. Open-air food market operating weekly: Fridays at World Trade Center, Saturdays in Williamsburg, and Sundays in Prospect Park; 11:00 AM - 6:00 PM.",
-      "event_location": "Multiple NYC locations: The Oculus / World Trade Center, 185 Greenwich St, New York, NY; Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY",
+      "event_desc": "Open-air food market with dozens of local vendors. Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM, and Friday to Sunday in Central Park, 12:00 PM - 8:00 PM. The World Trade Center market has closed for the season.",
+      "event_location": "Multiple NYC locations: Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY; Central Park, 36 Central Park W, New York, NY",
       "more_info": "official page: https://www.smorgasburg.com/"
     },
     {
       "event_id": 51,
       "event_date": "2026-04-24",
       "event_name": "Smorgasburg",
-      "event_desc": "16th season grand reopening Apr 2-5. Open-air food market operating weekly: Fridays at World Trade Center, Saturdays in Williamsburg, and Sundays in Prospect Park; 11:00 AM - 6:00 PM.",
-      "event_location": "Multiple NYC locations: The Oculus / World Trade Center, 185 Greenwich St, New York, NY; Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY",
+      "event_desc": "Open-air food market with dozens of local vendors. Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM, and Friday to Sunday in Central Park, 12:00 PM - 8:00 PM. The World Trade Center market has closed for the season.",
+      "event_location": "Multiple NYC locations: Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY; Central Park, 36 Central Park W, New York, NY",
       "more_info": "official page: https://www.smorgasburg.com/"
     },
     {
       "event_id": 51,
       "event_date": "2026-05-01",
       "event_name": "Smorgasburg",
-      "event_desc": "16th season grand reopening Apr 2-5. Open-air food market operating weekly: Fridays at World Trade Center, Saturdays in Williamsburg, and Sundays in Prospect Park; 11:00 AM - 6:00 PM.",
-      "event_location": "Multiple NYC locations: The Oculus / World Trade Center, 185 Greenwich St, New York, NY; Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY",
+      "event_desc": "Open-air food market with dozens of local vendors. Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM, and Friday to Sunday in Central Park, 12:00 PM - 8:00 PM. The World Trade Center market has closed for the season.",
+      "event_location": "Multiple NYC locations: Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY; Central Park, 36 Central Park W, New York, NY",
       "more_info": "official page: https://www.smorgasburg.com/"
     },
     {
       "event_id": 51,
       "event_date": "2026-05-08",
       "event_name": "Smorgasburg",
-      "event_desc": "16th season grand reopening Apr 2-5. Open-air food market operating weekly: Fridays at World Trade Center, Saturdays in Williamsburg, and Sundays in Prospect Park; 11:00 AM - 6:00 PM.",
-      "event_location": "Multiple NYC locations: The Oculus / World Trade Center, 185 Greenwich St, New York, NY; Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY",
+      "event_desc": "Open-air food market with dozens of local vendors. Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM, and Friday to Sunday in Central Park, 12:00 PM - 8:00 PM. The World Trade Center market has closed for the season.",
+      "event_location": "Multiple NYC locations: Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY; Central Park, 36 Central Park W, New York, NY",
       "more_info": "official page: https://www.smorgasburg.com/"
     },
     {
       "event_id": 51,
       "event_date": "2026-05-15",
       "event_name": "Smorgasburg",
-      "event_desc": "16th season grand reopening Apr 2-5. Open-air food market operating weekly: Fridays at World Trade Center, Saturdays in Williamsburg, and Sundays in Prospect Park; 11:00 AM - 6:00 PM.",
-      "event_location": "Multiple NYC locations: The Oculus / World Trade Center, 185 Greenwich St, New York, NY; Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY",
+      "event_desc": "Open-air food market with dozens of local vendors. Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM, and Friday to Sunday in Central Park, 12:00 PM - 8:00 PM. The World Trade Center market has closed for the season.",
+      "event_location": "Multiple NYC locations: Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY; Central Park, 36 Central Park W, New York, NY",
       "more_info": "official page: https://www.smorgasburg.com/"
     },
     {
       "event_id": 51,
       "event_date": "2026-05-22",
       "event_name": "Smorgasburg",
-      "event_desc": "16th season grand reopening Apr 2-5. Open-air food market operating weekly: Fridays at World Trade Center, Saturdays in Williamsburg, and Sundays in Prospect Park; 11:00 AM - 6:00 PM.",
-      "event_location": "Multiple NYC locations: The Oculus / World Trade Center, 185 Greenwich St, New York, NY; Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY",
+      "event_desc": "Open-air food market with dozens of local vendors. Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM, and Friday to Sunday in Central Park, 12:00 PM - 8:00 PM. The World Trade Center market has closed for the season.",
+      "event_location": "Multiple NYC locations: Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY; Central Park, 36 Central Park W, New York, NY",
       "more_info": "official page: https://www.smorgasburg.com/"
     },
     {
       "event_id": 51,
       "event_date": "2026-05-29",
       "event_name": "Smorgasburg",
-      "event_desc": "16th season grand reopening Apr 2-5. Open-air food market operating weekly: Fridays at World Trade Center, Saturdays in Williamsburg, and Sundays in Prospect Park; 11:00 AM - 6:00 PM.",
-      "event_location": "Multiple NYC locations: The Oculus / World Trade Center, 185 Greenwich St, New York, NY; Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY",
+      "event_desc": "Open-air food market with dozens of local vendors. Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM, and Friday to Sunday in Central Park, 12:00 PM - 8:00 PM. The World Trade Center market has closed for the season.",
+      "event_location": "Multiple NYC locations: Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY; Central Park, 36 Central Park W, New York, NY",
       "more_info": "official page: https://www.smorgasburg.com/"
     },
     {
       "event_id": 51,
       "event_date": "2026-06-05",
       "event_name": "Smorgasburg",
-      "event_desc": "16th season grand reopening Apr 2-5. Open-air food market operating weekly: Fridays at World Trade Center, Saturdays in Williamsburg, and Sundays in Prospect Park; 11:00 AM - 6:00 PM.",
-      "event_location": "Multiple NYC locations: The Oculus / World Trade Center, 185 Greenwich St, New York, NY; Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY",
+      "event_desc": "Open-air food market with dozens of local vendors. Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM, and Friday to Sunday in Central Park, 12:00 PM - 8:00 PM. The World Trade Center market has closed for the season.",
+      "event_location": "Multiple NYC locations: Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY; Central Park, 36 Central Park W, New York, NY",
       "more_info": "official page: https://www.smorgasburg.com/"
     },
     {
       "event_id": 51,
       "event_date": "2026-06-12",
       "event_name": "Smorgasburg",
-      "event_desc": "16th season grand reopening Apr 2-5. Open-air food market operating weekly: Fridays at World Trade Center, Saturdays in Williamsburg, and Sundays in Prospect Park; 11:00 AM - 6:00 PM.",
-      "event_location": "Multiple NYC locations: The Oculus / World Trade Center, 185 Greenwich St, New York, NY; Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY",
+      "event_desc": "Open-air food market with dozens of local vendors. Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM, and Friday to Sunday in Central Park, 12:00 PM - 8:00 PM. The World Trade Center market has closed for the season.",
+      "event_location": "Multiple NYC locations: Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY; Central Park, 36 Central Park W, New York, NY",
       "more_info": "official page: https://www.smorgasburg.com/"
     },
     {
       "event_id": 51,
       "event_date": "2026-06-19",
       "event_name": "Smorgasburg",
-      "event_desc": "16th season grand reopening Apr 2-5. Open-air food market operating weekly: Fridays at World Trade Center, Saturdays in Williamsburg, and Sundays in Prospect Park; 11:00 AM - 6:00 PM.",
-      "event_location": "Multiple NYC locations: The Oculus / World Trade Center, 185 Greenwich St, New York, NY; Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY",
+      "event_desc": "Open-air food market with dozens of local vendors. Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM, and Friday to Sunday in Central Park, 12:00 PM - 8:00 PM. The World Trade Center market has closed for the season.",
+      "event_location": "Multiple NYC locations: Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY; Central Park, 36 Central Park W, New York, NY",
       "more_info": "official page: https://www.smorgasburg.com/"
     },
     {
       "event_id": 51,
       "event_date": "2026-06-26",
       "event_name": "Smorgasburg",
-      "event_desc": "16th season grand reopening Apr 2-5. Open-air food market operating weekly: Fridays at World Trade Center, Saturdays in Williamsburg, and Sundays in Prospect Park; 11:00 AM - 6:00 PM.",
-      "event_location": "Multiple NYC locations: The Oculus / World Trade Center, 185 Greenwich St, New York, NY; Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY",
+      "event_desc": "Open-air food market with dozens of local vendors. Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM, and Friday to Sunday in Central Park, 12:00 PM - 8:00 PM. The World Trade Center market has closed for the season.",
+      "event_location": "Multiple NYC locations: Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY; Central Park, 36 Central Park W, New York, NY",
       "more_info": "official page: https://www.smorgasburg.com/"
     },
     {
       "event_id": 51,
       "event_date": "2026-07-03",
       "event_name": "Smorgasburg",
-      "event_desc": "16th season grand reopening Apr 2-5. Open-air food market operating weekly: Fridays at World Trade Center, Saturdays in Williamsburg, and Sundays in Prospect Park; 11:00 AM - 6:00 PM.",
-      "event_location": "Multiple NYC locations: The Oculus / World Trade Center, 185 Greenwich St, New York, NY; Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY",
+      "event_desc": "Open-air food market with dozens of local vendors. Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM, and Friday to Sunday in Central Park, 12:00 PM - 8:00 PM. The World Trade Center market has closed for the season.",
+      "event_location": "Multiple NYC locations: Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY; Central Park, 36 Central Park W, New York, NY",
       "more_info": "official page: https://www.smorgasburg.com/"
     },
     {
       "event_id": 51,
       "event_date": "2026-07-10",
       "event_name": "Smorgasburg",
-      "event_desc": "16th season grand reopening Apr 2-5. Open-air food market operating weekly: Fridays at World Trade Center, Saturdays in Williamsburg, and Sundays in Prospect Park; 11:00 AM - 6:00 PM.",
-      "event_location": "Multiple NYC locations: The Oculus / World Trade Center, 185 Greenwich St, New York, NY; Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY",
+      "event_desc": "Open-air food market with dozens of local vendors. Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM, and Friday to Sunday in Central Park, 12:00 PM - 8:00 PM. The World Trade Center market has closed for the season.",
+      "event_location": "Multiple NYC locations: Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY; Central Park, 36 Central Park W, New York, NY",
       "more_info": "official page: https://www.smorgasburg.com/"
     },
     {
       "event_id": 51,
       "event_date": "2026-07-17",
       "event_name": "Smorgasburg",
-      "event_desc": "16th season grand reopening Apr 2-5. Open-air food market operating weekly: Fridays at World Trade Center, Saturdays in Williamsburg, and Sundays in Prospect Park; 11:00 AM - 6:00 PM.",
-      "event_location": "Multiple NYC locations: The Oculus / World Trade Center, 185 Greenwich St, New York, NY; Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY",
+      "event_desc": "Open-air food market with dozens of local vendors. Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM, and Friday to Sunday in Central Park, 12:00 PM - 8:00 PM. The World Trade Center market has closed for the season.",
+      "event_location": "Multiple NYC locations: Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY; Central Park, 36 Central Park W, New York, NY",
       "more_info": "official page: https://www.smorgasburg.com/"
     },
     {
       "event_id": 51,
       "event_date": "2026-07-24",
       "event_name": "Smorgasburg",
-      "event_desc": "16th season grand reopening Apr 2-5. Open-air food market operating weekly: Fridays at World Trade Center, Saturdays in Williamsburg, and Sundays in Prospect Park; 11:00 AM - 6:00 PM.",
-      "event_location": "Multiple NYC locations: The Oculus / World Trade Center, 185 Greenwich St, New York, NY; Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY",
+      "event_desc": "Open-air food market with dozens of local vendors. Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM, and Friday to Sunday in Central Park, 12:00 PM - 8:00 PM. The World Trade Center market has closed for the season.",
+      "event_location": "Multiple NYC locations: Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY; Central Park, 36 Central Park W, New York, NY",
       "more_info": "official page: https://www.smorgasburg.com/"
     },
     {
       "event_id": 51,
       "event_date": "2026-07-31",
       "event_name": "Smorgasburg",
-      "event_desc": "16th season grand reopening Apr 2-5. Open-air food market operating weekly: Fridays at World Trade Center, Saturdays in Williamsburg, and Sundays in Prospect Park; 11:00 AM - 6:00 PM.",
-      "event_location": "Multiple NYC locations: The Oculus / World Trade Center, 185 Greenwich St, New York, NY; Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY",
+      "event_desc": "Open-air food market with dozens of local vendors. Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM, and Friday to Sunday in Central Park, 12:00 PM - 8:00 PM. The World Trade Center market has closed for the season.",
+      "event_location": "Multiple NYC locations: Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY; Central Park, 36 Central Park W, New York, NY",
       "more_info": "official page: https://www.smorgasburg.com/"
     },
     {
       "event_id": 51,
       "event_date": "2026-08-07",
       "event_name": "Smorgasburg",
-      "event_desc": "16th season grand reopening Apr 2-5. Open-air food market operating weekly: Fridays at World Trade Center, Saturdays in Williamsburg, and Sundays in Prospect Park; 11:00 AM - 6:00 PM.",
-      "event_location": "Multiple NYC locations: The Oculus / World Trade Center, 185 Greenwich St, New York, NY; Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY",
+      "event_desc": "Open-air food market with dozens of local vendors. Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM, and Friday to Sunday in Central Park, 12:00 PM - 8:00 PM. The World Trade Center market has closed for the season.",
+      "event_location": "Multiple NYC locations: Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY; Central Park, 36 Central Park W, New York, NY",
       "more_info": "official page: https://www.smorgasburg.com/"
     },
     {
       "event_id": 51,
       "event_date": "2026-08-14",
       "event_name": "Smorgasburg",
-      "event_desc": "16th season grand reopening Apr 2-5. Open-air food market operating weekly: Fridays at World Trade Center, Saturdays in Williamsburg, and Sundays in Prospect Park; 11:00 AM - 6:00 PM.",
-      "event_location": "Multiple NYC locations: The Oculus / World Trade Center, 185 Greenwich St, New York, NY; Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY",
+      "event_desc": "Open-air food market with dozens of local vendors. Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM, and Friday to Sunday in Central Park, 12:00 PM - 8:00 PM. The World Trade Center market has closed for the season.",
+      "event_location": "Multiple NYC locations: Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY; Central Park, 36 Central Park W, New York, NY",
       "more_info": "official page: https://www.smorgasburg.com/"
     },
     {
       "event_id": 51,
       "event_date": "2026-08-21",
       "event_name": "Smorgasburg",
-      "event_desc": "16th season grand reopening Apr 2-5. Open-air food market operating weekly: Fridays at World Trade Center, Saturdays in Williamsburg, and Sundays in Prospect Park; 11:00 AM - 6:00 PM.",
-      "event_location": "Multiple NYC locations: The Oculus / World Trade Center, 185 Greenwich St, New York, NY; Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY",
+      "event_desc": "Open-air food market with dozens of local vendors. Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM, and Friday to Sunday in Central Park, 12:00 PM - 8:00 PM. The World Trade Center market has closed for the season.",
+      "event_location": "Multiple NYC locations: Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY; Central Park, 36 Central Park W, New York, NY",
       "more_info": "official page: https://www.smorgasburg.com/"
     },
     {
       "event_id": 51,
       "event_date": "2026-08-28",
       "event_name": "Smorgasburg",
-      "event_desc": "16th season grand reopening Apr 2-5. Open-air food market operating weekly: Fridays at World Trade Center, Saturdays in Williamsburg, and Sundays in Prospect Park; 11:00 AM - 6:00 PM.",
-      "event_location": "Multiple NYC locations: The Oculus / World Trade Center, 185 Greenwich St, New York, NY; Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY",
+      "event_desc": "Open-air food market with dozens of local vendors. Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM, and Friday to Sunday in Central Park, 12:00 PM - 8:00 PM. The World Trade Center market has closed for the season.",
+      "event_location": "Multiple NYC locations: Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY; Central Park, 36 Central Park W, New York, NY",
       "more_info": "official page: https://www.smorgasburg.com/"
     },
     {
       "event_id": 51,
       "event_date": "2026-09-04",
       "event_name": "Smorgasburg",
-      "event_desc": "16th season grand reopening Apr 2-5. Open-air food market operating weekly: Fridays at World Trade Center, Saturdays in Williamsburg, and Sundays in Prospect Park; 11:00 AM - 6:00 PM.",
-      "event_location": "Multiple NYC locations: The Oculus / World Trade Center, 185 Greenwich St, New York, NY; Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY",
+      "event_desc": "Open-air food market with dozens of local vendors. Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM, and Friday to Sunday in Central Park, 12:00 PM - 8:00 PM. The World Trade Center market has closed for the season.",
+      "event_location": "Multiple NYC locations: Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY; Central Park, 36 Central Park W, New York, NY",
       "more_info": "official page: https://www.smorgasburg.com/"
     },
     {
       "event_id": 51,
       "event_date": "2026-09-11",
       "event_name": "Smorgasburg",
-      "event_desc": "16th season grand reopening Apr 2-5. Open-air food market operating weekly: Fridays at World Trade Center, Saturdays in Williamsburg, and Sundays in Prospect Park; 11:00 AM - 6:00 PM.",
-      "event_location": "Multiple NYC locations: The Oculus / World Trade Center, 185 Greenwich St, New York, NY; Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY",
+      "event_desc": "Open-air food market with dozens of local vendors. Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM, and Friday to Sunday in Central Park, 12:00 PM - 8:00 PM. The World Trade Center market has closed for the season.",
+      "event_location": "Multiple NYC locations: Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY; Central Park, 36 Central Park W, New York, NY",
       "more_info": "official page: https://www.smorgasburg.com/"
     },
     {
       "event_id": 51,
       "event_date": "2026-09-18",
       "event_name": "Smorgasburg",
-      "event_desc": "16th season grand reopening Apr 2-5. Open-air food market operating weekly: Fridays at World Trade Center, Saturdays in Williamsburg, and Sundays in Prospect Park; 11:00 AM - 6:00 PM.",
-      "event_location": "Multiple NYC locations: The Oculus / World Trade Center, 185 Greenwich St, New York, NY; Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY",
+      "event_desc": "Open-air food market with dozens of local vendors. Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM, and Friday to Sunday in Central Park, 12:00 PM - 8:00 PM. The World Trade Center market has closed for the season.",
+      "event_location": "Multiple NYC locations: Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY; Central Park, 36 Central Park W, New York, NY",
       "more_info": "official page: https://www.smorgasburg.com/"
     },
     {
       "event_id": 51,
       "event_date": "2026-09-25",
       "event_name": "Smorgasburg",
-      "event_desc": "16th season grand reopening Apr 2-5. Open-air food market operating weekly: Fridays at World Trade Center, Saturdays in Williamsburg, and Sundays in Prospect Park; 11:00 AM - 6:00 PM.",
-      "event_location": "Multiple NYC locations: The Oculus / World Trade Center, 185 Greenwich St, New York, NY; Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY",
+      "event_desc": "Open-air food market with dozens of local vendors. Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM, and Friday to Sunday in Central Park, 12:00 PM - 8:00 PM. The World Trade Center market has closed for the season.",
+      "event_location": "Multiple NYC locations: Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY; Central Park, 36 Central Park W, New York, NY",
       "more_info": "official page: https://www.smorgasburg.com/"
     },
     {
       "event_id": 51,
       "event_date": "2026-10-02",
       "event_name": "Smorgasburg",
-      "event_desc": "16th season grand reopening Apr 2-5. Open-air food market operating weekly: Fridays at World Trade Center, Saturdays in Williamsburg, and Sundays in Prospect Park; 11:00 AM - 6:00 PM.",
-      "event_location": "Multiple NYC locations: The Oculus / World Trade Center, 185 Greenwich St, New York, NY; Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY",
+      "event_desc": "Open-air food market with dozens of local vendors. Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM, and Friday to Sunday in Central Park, 12:00 PM - 8:00 PM. The World Trade Center market has closed for the season.",
+      "event_location": "Multiple NYC locations: Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY; Central Park, 36 Central Park W, New York, NY",
       "more_info": "official page: https://www.smorgasburg.com/"
     },
     {
       "event_id": 51,
       "event_date": "2026-10-09",
       "event_name": "Smorgasburg",
-      "event_desc": "16th season grand reopening Apr 2-5. Open-air food market operating weekly: Fridays at World Trade Center, Saturdays in Williamsburg, and Sundays in Prospect Park; 11:00 AM - 6:00 PM.",
-      "event_location": "Multiple NYC locations: The Oculus / World Trade Center, 185 Greenwich St, New York, NY; Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY",
+      "event_desc": "Open-air food market with dozens of local vendors. Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM, and Friday to Sunday in Central Park, 12:00 PM - 8:00 PM. The World Trade Center market has closed for the season.",
+      "event_location": "Multiple NYC locations: Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY; Central Park, 36 Central Park W, New York, NY",
       "more_info": "official page: https://www.smorgasburg.com/"
     },
     {
       "event_id": 51,
       "event_date": "2026-10-16",
       "event_name": "Smorgasburg",
-      "event_desc": "16th season grand reopening Apr 2-5. Open-air food market operating weekly: Fridays at World Trade Center, Saturdays in Williamsburg, and Sundays in Prospect Park; 11:00 AM - 6:00 PM.",
-      "event_location": "Multiple NYC locations: The Oculus / World Trade Center, 185 Greenwich St, New York, NY; Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY",
+      "event_desc": "Open-air food market with dozens of local vendors. Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM, and Friday to Sunday in Central Park, 12:00 PM - 8:00 PM. The World Trade Center market has closed for the season.",
+      "event_location": "Multiple NYC locations: Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY; Central Park, 36 Central Park W, New York, NY",
       "more_info": "official page: https://www.smorgasburg.com/"
     },
     {
       "event_id": 51,
       "event_date": "2026-10-23",
       "event_name": "Smorgasburg",
-      "event_desc": "16th season grand reopening Apr 2-5. Open-air food market operating weekly: Fridays at World Trade Center, Saturdays in Williamsburg, and Sundays in Prospect Park; 11:00 AM - 6:00 PM.",
-      "event_location": "Multiple NYC locations: The Oculus / World Trade Center, 185 Greenwich St, New York, NY; Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY",
+      "event_desc": "Open-air food market with dozens of local vendors. Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM, and Friday to Sunday in Central Park, 12:00 PM - 8:00 PM. The World Trade Center market has closed for the season.",
+      "event_location": "Multiple NYC locations: Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY; Central Park, 36 Central Park W, New York, NY",
       "more_info": "official page: https://www.smorgasburg.com/"
     },
     {
       "event_id": 51,
       "event_date": "2026-10-30",
       "event_name": "Smorgasburg",
-      "event_desc": "16th season grand reopening Apr 2-5. Open-air food market operating weekly: Fridays at World Trade Center, Saturdays in Williamsburg, and Sundays in Prospect Park; 11:00 AM - 6:00 PM.",
-      "event_location": "Multiple NYC locations: The Oculus / World Trade Center, 185 Greenwich St, New York, NY; Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY",
+      "event_desc": "Open-air food market with dozens of local vendors. Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM, and Friday to Sunday in Central Park, 12:00 PM - 8:00 PM. The World Trade Center market has closed for the season.",
+      "event_location": "Multiple NYC locations: Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY; Central Park, 36 Central Park W, New York, NY",
       "more_info": "official page: https://www.smorgasburg.com/"
     },
     {
@@ -1442,6 +1442,142 @@
       "event_desc": "Verified 2026 guest pizza collaboration series at Ops East Village; official Instagram confirms ongoing guest-pizza runs in 2026.",
       "event_location": "Ops East Village, 176 2nd Ave, New York, NY 10003",
       "more_info": "official page: https://www.opsbk.com/east-village"
+    },
+    {
+      "event_id": 90,
+      "event_date": "2026-05-03",
+      "event_name": "May 3rd | JAPAN Fes New York @Upper West Side",
+      "event_desc": "10:00 AM - 6:00 PM; Japanese street food festival.",
+      "event_location": "Upper West Side, New York, NY",
+      "more_info": "official page: https://www.japanfes.com/new-blog/2026/may-3rd-uws"
+    },
+    {
+      "event_id": 91,
+      "event_date": "2026-05-09",
+      "event_name": "May 9th | JAPAN Fes New York @Chelsea",
+      "event_desc": "10:00 AM - 6:00 PM; Japanese street food festival.",
+      "event_location": "Chelsea, New York, NY",
+      "more_info": "official page: https://www.japanfes.com/new-blog/2026/may-9th-chelsea"
+    },
+    {
+      "event_id": 92,
+      "event_date": "2026-05-24",
+      "event_name": "May 24th | JAPAN Fes New York @Greenwich Village",
+      "event_desc": "10:00 AM - 6:00 PM; Japanese street food festival.",
+      "event_location": "Greenwich Village, New York, NY",
+      "more_info": "official page: https://www.japanfes.com/new-blog/2026/may-24th-greenwich-village"
+    },
+    {
+      "event_id": 93,
+      "event_date": "2026-05-30",
+      "event_name": "May 30th | JAPAN Fes New York @Upper East Side",
+      "event_desc": "10:00 AM - 6:00 PM; Japanese street food festival.",
+      "event_location": "Upper East Side, New York, NY",
+      "more_info": "official page: https://www.japanfes.com/new-blog/2026/may-30th-ues"
+    },
+    {
+      "event_id": 94,
+      "event_date": "2026-05-31",
+      "event_name": "May 31st | JAPAN Fes New York @East Village",
+      "event_desc": "10:00 AM - 6:00 PM; Japanese street food festival.",
+      "event_location": "East Village, New York, NY",
+      "more_info": "official page: https://www.japanfes.com/new-blog/2026/may-31-east-village"
+    },
+    {
+      "event_id": 95,
+      "event_date": "2026-06-20",
+      "event_name": "June 20th | JAPAN Fes New York @New Rochelle",
+      "event_desc": "1:00 PM - 9:00 PM; Japanese street food festival in New Rochelle, just outside New York City.",
+      "event_location": "New Rochelle, NY",
+      "more_info": "official page: https://www.japanfes.com/new-blog/2026/jun-20-new-rochelle"
+    },
+    {
+      "event_id": 96,
+      "event_date": "2026-07-11",
+      "event_name": "July 11th | JAPAN Fes New York @Chelsea",
+      "event_desc": "10:00 AM - 6:00 PM; Japanese street food festival.",
+      "event_location": "Chelsea, New York, NY",
+      "more_info": "official page: https://www.japanfes.com/new-blog/2026/july-11-chelsea"
+    },
+    {
+      "event_id": 97,
+      "event_date": "2026-07-26",
+      "event_name": "July 26th | JAPAN Fes New York @Astoria",
+      "event_desc": "10:00 AM - 6:00 PM; Japanese street food festival.",
+      "event_location": "Astoria, Queens, NY",
+      "more_info": "official page: https://www.japanfes.com/new-blog/2026/jul-26-astoria"
+    },
+    {
+      "event_id": 98,
+      "event_date": "2026-08-02",
+      "event_name": "August 2nd | JAPAN Fes New York @Midtown West",
+      "event_desc": "10:00 AM - 6:00 PM; Japanese street food festival.",
+      "event_location": "Midtown West, New York, NY",
+      "more_info": "official page: https://www.japanfes.com/new-blog/2026/aug-2-midtown-west"
+    },
+    {
+      "event_id": 99,
+      "event_date": "2026-08-15",
+      "event_name": "August 15th | JAPAN Fes New York @New Rochelle",
+      "event_desc": "1:00 PM - 9:00 PM; Japanese street food festival in New Rochelle, just outside New York City.",
+      "event_location": "New Rochelle, NY",
+      "more_info": "official page: https://www.japanfes.com/new-blog/2026/aug-15-new-rochelle"
+    },
+    {
+      "event_id": 100,
+      "event_date": "2026-08-29",
+      "event_name": "August 29th | JAPAN Fes New York @East Village",
+      "event_desc": "10:00 AM - 6:00 PM; Japanese street food festival.",
+      "event_location": "East Village, New York, NY",
+      "more_info": "official page: https://www.japanfes.com/new-blog/2026/aug-29-east-village"
+    },
+    {
+      "event_id": 101,
+      "event_date": "2026-08-30",
+      "event_name": "August 30th | JAPAN Fes New York @East Village",
+      "event_desc": "10:00 AM - 6:00 PM; Japanese street food festival.",
+      "event_location": "East Village, New York, NY",
+      "more_info": "official page: https://www.japanfes.com/new-blog/2026/aug-30-east-village"
+    },
+    {
+      "event_id": 102,
+      "event_date": "2026-09-05",
+      "event_name": "September 5th | JAPAN Fes New York @Long Island City",
+      "event_desc": "2:00 PM - 10:00 PM; Japanese street food festival.",
+      "event_location": "Long Island City, Queens, NY",
+      "more_info": "official page: https://www.japanfes.com/new-blog/2026/sep-5-long-island-city"
+    },
+    {
+      "event_id": 103,
+      "event_date": "2026-09-06",
+      "event_name": "September 6th | JAPAN Fes New York @Upper West Side",
+      "event_desc": "10:00 AM - 6:00 PM; Japanese street food festival.",
+      "event_location": "Upper West Side, New York, NY",
+      "more_info": "official page: https://www.japanfes.com/new-blog/2026/sep-6-uws"
+    },
+    {
+      "event_id": 104,
+      "event_date": "2026-09-12",
+      "event_name": "September 12th | JAPAN Fes New York @Chelsea",
+      "event_desc": "10:00 AM - 6:00 PM; Japanese street food festival.",
+      "event_location": "Chelsea, New York, NY",
+      "more_info": "official page: https://www.japanfes.com/new-blog/2026/sep-12-chelsea"
+    },
+    {
+      "event_id": 105,
+      "event_date": "2026-09-13",
+      "event_name": "September 13th | JAPAN Fes New York @Chelsea",
+      "event_desc": "10:00 AM - 6:00 PM; Japanese street food festival.",
+      "event_location": "Chelsea, New York, NY",
+      "more_info": "official page: https://www.japanfes.com/new-blog/2026/sep-13-chelsea"
+    },
+    {
+      "event_id": 106,
+      "event_date": "2026-09-19",
+      "event_name": "September 19th | JAPAN Fes New York @Upper East Side",
+      "event_desc": "10:00 AM - 6:00 PM; Japanese street food festival.",
+      "event_location": "Upper East Side, New York, NY",
+      "more_info": "official page: https://www.japanfes.com/new-blog/2026/sep-19-ues"
     }
   ]
 }
