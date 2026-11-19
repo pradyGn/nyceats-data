@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-14T19:09:27Z",
+  "generated_at": "2026-11-19T21:50:40Z",
   "ttl_seconds": 600,
   "events": [
     {
@@ -199,7 +199,7 @@
       "event_id": 2,
       "event_date": "2026-01-26",
       "event_name": "Burgers with Buddies at Gertrude's",
-      "event_desc": "Official guest burger collaboration series listed on Gertrude's happenings page.",
+      "event_desc": "Official guest burger collaboration series.",
       "event_location": "Gertrude's, 605 Carlton Ave, Brooklyn, NY 11238",
       "more_info": "official page: https://www.gertrudes.nyc/happenings"
     },
@@ -207,7 +207,7 @@
       "event_id": 2,
       "event_date": "2026-02-09",
       "event_name": "Burgers with Buddies at Gertrude's",
-      "event_desc": "Official guest burger collaboration series listed on Gertrude's happenings page.",
+      "event_desc": "Official guest burger collaboration series.",
       "event_location": "Gertrude's, 605 Carlton Ave, Brooklyn, NY 11238",
       "more_info": "official page: https://www.gertrudes.nyc/happenings"
     },
@@ -215,7 +215,7 @@
       "event_id": 2,
       "event_date": "2026-02-16",
       "event_name": "Burgers with Buddies at Gertrude's",
-      "event_desc": "Official guest burger collaboration series listed on Gertrude's happenings page.",
+      "event_desc": "Official guest burger collaboration series.",
       "event_location": "Gertrude's, 605 Carlton Ave, Brooklyn, NY 11238",
       "more_info": "official page: https://www.gertrudes.nyc/happenings"
     },
@@ -223,7 +223,7 @@
       "event_id": 2,
       "event_date": "2026-02-23",
       "event_name": "Burgers with Buddies at Gertrude's",
-      "event_desc": "Official guest burger collaboration series listed on Gertrude's happenings page.",
+      "event_desc": "Official guest burger collaboration series.",
       "event_location": "Gertrude's, 605 Carlton Ave, Brooklyn, NY 11238",
       "more_info": "official page: https://www.gertrudes.nyc/happenings"
     },
@@ -231,7 +231,7 @@
       "event_id": 2,
       "event_date": "2026-03-23",
       "event_name": "Burgers with Buddies at Gertrude's",
-      "event_desc": "Official guest burger collaboration series listed on Gertrude's happenings page.",
+      "event_desc": "Official guest burger collaboration series.",
       "event_location": "Gertrude's, 605 Carlton Ave, Brooklyn, NY 11238",
       "more_info": "official page: https://www.gertrudes.nyc/happenings"
     },
@@ -239,7 +239,7 @@
       "event_id": 2,
       "event_date": "2026-04-06",
       "event_name": "Burgers with Buddies at Gertrude's",
-      "event_desc": "Official guest burger collaboration series listed on Gertrude's happenings page.",
+      "event_desc": "Official guest burger collaboration series.",
       "event_location": "Gertrude's, 605 Carlton Ave, Brooklyn, NY 11238",
       "more_info": "official page: https://www.gertrudes.nyc/happenings"
     },
@@ -247,7 +247,7 @@
       "event_id": 2,
       "event_date": "2026-04-20",
       "event_name": "Burgers with Buddies at Gertrude's",
-      "event_desc": "Official guest burger collaboration series listed on Gertrude's happenings page.",
+      "event_desc": "Official guest burger collaboration series.",
       "event_location": "Gertrude's, 605 Carlton Ave, Brooklyn, NY 11238",
       "more_info": "official page: https://www.gertrudes.nyc/happenings"
     },
@@ -583,7 +583,7 @@
       "event_id": 32,
       "event_date": "2026-06-07",
       "event_name": "Borinquen Heritage Fest",
-      "event_desc": "11:00 AM - 7:00 PM; Puerto Rican heritage festival. Free entry; details were marked medium-confidence in the PDF because primary ticket pages were not accessible.",
+      "event_desc": "11:00 AM - 7:00 PM; Puerto Rican heritage festival. Free entry.",
       "event_location": "Snug Harbor Cultural Center & Botanical Garden, 1000 Richmond Terrace, Staten Island, NY 10301",
       "more_info": "official page: https://www.sipra25.org/"
     },
@@ -815,24 +815,24 @@
       "event_id": 45,
       "event_date": "2026-10-03",
       "event_name": "Latin Food Festival NYC (Latin Food Fest) 2026",
-      "event_desc": "12:00 PM - 8:00 PM daily; food festival with free entry / RSVP and VIP options. Exact Bronx venue still TBA.",
-      "event_location": "Uptown / The Bronx venue TBA",
-      "more_info": "official page: https://www.thelatinfoodfest.com/"
+      "event_desc": "Latin food festival on one Saturday, Oct 3, 2026, 12:00 PM - 7:00 PM, with two stages under the 12th Avenue viaduct. Free with RSVP.",
+      "event_location": "W 133rd St & 12th Ave, West Harlem, New York, NY",
+      "more_info": "official page: https://www.thelatinfoodfest.com/nyc"
     },
     {
-      "event_id": 45,
-      "event_date": "2026-10-04",
-      "event_name": "Latin Food Festival NYC (Latin Food Fest) 2026",
-      "event_desc": "12:00 PM - 8:00 PM daily; food festival with free entry / RSVP and VIP options. Exact Bronx venue still TBA.",
-      "event_location": "Uptown / The Bronx venue TBA",
-      "more_info": "official page: https://www.thelatinfoodfest.com/"
+      "event_id": 67,
+      "event_date": "2027-04-14",
+      "event_name": "Brisket King NYC 2027",
+      "event_desc": "BBQ competition where chefs and pitmasters compete for the Brisket King title, now in its 15th year. Wednesday, Apr 14, 2027, 5:00 PM - 9:00 PM, with a VIP hour from 5:00 PM and general admission from 6:00 PM. 21+, rain or shine. Past champions include Smoke Sweats (2025), Avellino Family Barbecue (2024) and Wildwoods BBQ (2023).",
+      "event_location": "Industry City, 33 35th St, Brooklyn, NY 11232",
+      "more_info": "official page: https://brisketking.com/"
     },
     {
       "event_id": 46,
       "event_date": "2026-10-03",
       "event_name": "Creole Food Festival - New York City 2026 Grand Tasting",
       "event_desc": "Creole and Louisiana food festival Grand Tasting on Saturday, Oct 3, 3:00 PM - 8:00 PM, with a VIP hour at 2:00 PM.",
-      "event_location": "Emily Roebling Plaza / Time Out Market partnership, DUMBO, Brooklyn, NY",
+      "event_location": "Pier 3, Brooklyn Bridge Park, Brooklyn, NY 11201",
       "more_info": "official page: https://www.creolefoodfestival.com/newyorkcity"
     },
     {
@@ -855,7 +855,7 @@
       "event_id": 47,
       "event_date": "2026-10-03",
       "event_name": "CiderFeast™ Brooklyn",
-      "event_desc": "Brooklyn 2026 date confirmed; venue and time still pending on the official site.",
+      "event_desc": "Cider tasting festival.",
       "event_location": "Brooklyn venue TBA",
       "more_info": "official page: https://ciderfeasthq.com/"
     },
@@ -943,7 +943,7 @@
       "event_id": 51,
       "event_date": "2026-04-02",
       "event_name": "Smorgasburg",
-      "event_desc": "Open-air food market with dozens of local vendors. Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM, and Friday to Sunday in Central Park, 12:00 PM - 8:00 PM. The World Trade Center market has closed for the season.",
+      "event_desc": "Open-air food market with dozens of local vendors. Friday to Sunday in Central Park, 12:00 PM - 8:00 PM; Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM. The World Trade Center market has closed for the season.",
       "event_location": "Multiple NYC locations: Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY; Central Park, 36 Central Park W, New York, NY",
       "more_info": "official page: https://www.smorgasburg.com/"
     },
@@ -951,7 +951,7 @@
       "event_id": 51,
       "event_date": "2026-04-03",
       "event_name": "Smorgasburg",
-      "event_desc": "Open-air food market with dozens of local vendors. Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM, and Friday to Sunday in Central Park, 12:00 PM - 8:00 PM. The World Trade Center market has closed for the season.",
+      "event_desc": "Open-air food market with dozens of local vendors. Friday to Sunday in Central Park, 12:00 PM - 8:00 PM; Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM. The World Trade Center market has closed for the season.",
       "event_location": "Multiple NYC locations: Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY; Central Park, 36 Central Park W, New York, NY",
       "more_info": "official page: https://www.smorgasburg.com/"
     },
@@ -959,7 +959,7 @@
       "event_id": 51,
       "event_date": "2026-04-10",
       "event_name": "Smorgasburg",
-      "event_desc": "Open-air food market with dozens of local vendors. Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM, and Friday to Sunday in Central Park, 12:00 PM - 8:00 PM. The World Trade Center market has closed for the season.",
+      "event_desc": "Open-air food market with dozens of local vendors. Friday to Sunday in Central Park, 12:00 PM - 8:00 PM; Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM. The World Trade Center market has closed for the season.",
       "event_location": "Multiple NYC locations: Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY; Central Park, 36 Central Park W, New York, NY",
       "more_info": "official page: https://www.smorgasburg.com/"
     },
@@ -967,7 +967,7 @@
       "event_id": 51,
       "event_date": "2026-04-17",
       "event_name": "Smorgasburg",
-      "event_desc": "Open-air food market with dozens of local vendors. Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM, and Friday to Sunday in Central Park, 12:00 PM - 8:00 PM. The World Trade Center market has closed for the season.",
+      "event_desc": "Open-air food market with dozens of local vendors. Friday to Sunday in Central Park, 12:00 PM - 8:00 PM; Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM. The World Trade Center market has closed for the season.",
       "event_location": "Multiple NYC locations: Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY; Central Park, 36 Central Park W, New York, NY",
       "more_info": "official page: https://www.smorgasburg.com/"
     },
@@ -975,7 +975,7 @@
       "event_id": 51,
       "event_date": "2026-04-24",
       "event_name": "Smorgasburg",
-      "event_desc": "Open-air food market with dozens of local vendors. Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM, and Friday to Sunday in Central Park, 12:00 PM - 8:00 PM. The World Trade Center market has closed for the season.",
+      "event_desc": "Open-air food market with dozens of local vendors. Friday to Sunday in Central Park, 12:00 PM - 8:00 PM; Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM. The World Trade Center market has closed for the season.",
       "event_location": "Multiple NYC locations: Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY; Central Park, 36 Central Park W, New York, NY",
       "more_info": "official page: https://www.smorgasburg.com/"
     },
@@ -983,7 +983,7 @@
       "event_id": 51,
       "event_date": "2026-05-01",
       "event_name": "Smorgasburg",
-      "event_desc": "Open-air food market with dozens of local vendors. Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM, and Friday to Sunday in Central Park, 12:00 PM - 8:00 PM. The World Trade Center market has closed for the season.",
+      "event_desc": "Open-air food market with dozens of local vendors. Friday to Sunday in Central Park, 12:00 PM - 8:00 PM; Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM. The World Trade Center market has closed for the season.",
       "event_location": "Multiple NYC locations: Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY; Central Park, 36 Central Park W, New York, NY",
       "more_info": "official page: https://www.smorgasburg.com/"
     },
@@ -991,7 +991,7 @@
       "event_id": 51,
       "event_date": "2026-05-08",
       "event_name": "Smorgasburg",
-      "event_desc": "Open-air food market with dozens of local vendors. Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM, and Friday to Sunday in Central Park, 12:00 PM - 8:00 PM. The World Trade Center market has closed for the season.",
+      "event_desc": "Open-air food market with dozens of local vendors. Friday to Sunday in Central Park, 12:00 PM - 8:00 PM; Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM. The World Trade Center market has closed for the season.",
       "event_location": "Multiple NYC locations: Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY; Central Park, 36 Central Park W, New York, NY",
       "more_info": "official page: https://www.smorgasburg.com/"
     },
@@ -999,7 +999,7 @@
       "event_id": 51,
       "event_date": "2026-05-15",
       "event_name": "Smorgasburg",
-      "event_desc": "Open-air food market with dozens of local vendors. Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM, and Friday to Sunday in Central Park, 12:00 PM - 8:00 PM. The World Trade Center market has closed for the season.",
+      "event_desc": "Open-air food market with dozens of local vendors. Friday to Sunday in Central Park, 12:00 PM - 8:00 PM; Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM. The World Trade Center market has closed for the season.",
       "event_location": "Multiple NYC locations: Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY; Central Park, 36 Central Park W, New York, NY",
       "more_info": "official page: https://www.smorgasburg.com/"
     },
@@ -1007,7 +1007,7 @@
       "event_id": 51,
       "event_date": "2026-05-22",
       "event_name": "Smorgasburg",
-      "event_desc": "Open-air food market with dozens of local vendors. Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM, and Friday to Sunday in Central Park, 12:00 PM - 8:00 PM. The World Trade Center market has closed for the season.",
+      "event_desc": "Open-air food market with dozens of local vendors. Friday to Sunday in Central Park, 12:00 PM - 8:00 PM; Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM. The World Trade Center market has closed for the season.",
       "event_location": "Multiple NYC locations: Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY; Central Park, 36 Central Park W, New York, NY",
       "more_info": "official page: https://www.smorgasburg.com/"
     },
@@ -1015,7 +1015,7 @@
       "event_id": 51,
       "event_date": "2026-05-29",
       "event_name": "Smorgasburg",
-      "event_desc": "Open-air food market with dozens of local vendors. Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM, and Friday to Sunday in Central Park, 12:00 PM - 8:00 PM. The World Trade Center market has closed for the season.",
+      "event_desc": "Open-air food market with dozens of local vendors. Friday to Sunday in Central Park, 12:00 PM - 8:00 PM; Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM. The World Trade Center market has closed for the season.",
       "event_location": "Multiple NYC locations: Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY; Central Park, 36 Central Park W, New York, NY",
       "more_info": "official page: https://www.smorgasburg.com/"
     },
@@ -1023,7 +1023,7 @@
       "event_id": 51,
       "event_date": "2026-06-05",
       "event_name": "Smorgasburg",
-      "event_desc": "Open-air food market with dozens of local vendors. Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM, and Friday to Sunday in Central Park, 12:00 PM - 8:00 PM. The World Trade Center market has closed for the season.",
+      "event_desc": "Open-air food market with dozens of local vendors. Friday to Sunday in Central Park, 12:00 PM - 8:00 PM; Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM. The World Trade Center market has closed for the season.",
       "event_location": "Multiple NYC locations: Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY; Central Park, 36 Central Park W, New York, NY",
       "more_info": "official page: https://www.smorgasburg.com/"
     },
@@ -1031,7 +1031,7 @@
       "event_id": 51,
       "event_date": "2026-06-12",
       "event_name": "Smorgasburg",
-      "event_desc": "Open-air food market with dozens of local vendors. Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM, and Friday to Sunday in Central Park, 12:00 PM - 8:00 PM. The World Trade Center market has closed for the season.",
+      "event_desc": "Open-air food market with dozens of local vendors. Friday to Sunday in Central Park, 12:00 PM - 8:00 PM; Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM. The World Trade Center market has closed for the season.",
       "event_location": "Multiple NYC locations: Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY; Central Park, 36 Central Park W, New York, NY",
       "more_info": "official page: https://www.smorgasburg.com/"
     },
@@ -1039,7 +1039,7 @@
       "event_id": 51,
       "event_date": "2026-06-19",
       "event_name": "Smorgasburg",
-      "event_desc": "Open-air food market with dozens of local vendors. Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM, and Friday to Sunday in Central Park, 12:00 PM - 8:00 PM. The World Trade Center market has closed for the season.",
+      "event_desc": "Open-air food market with dozens of local vendors. Friday to Sunday in Central Park, 12:00 PM - 8:00 PM; Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM. The World Trade Center market has closed for the season.",
       "event_location": "Multiple NYC locations: Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY; Central Park, 36 Central Park W, New York, NY",
       "more_info": "official page: https://www.smorgasburg.com/"
     },
@@ -1047,7 +1047,7 @@
       "event_id": 51,
       "event_date": "2026-06-26",
       "event_name": "Smorgasburg",
-      "event_desc": "Open-air food market with dozens of local vendors. Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM, and Friday to Sunday in Central Park, 12:00 PM - 8:00 PM. The World Trade Center market has closed for the season.",
+      "event_desc": "Open-air food market with dozens of local vendors. Friday to Sunday in Central Park, 12:00 PM - 8:00 PM; Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM. The World Trade Center market has closed for the season.",
       "event_location": "Multiple NYC locations: Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY; Central Park, 36 Central Park W, New York, NY",
       "more_info": "official page: https://www.smorgasburg.com/"
     },
@@ -1055,7 +1055,7 @@
       "event_id": 51,
       "event_date": "2026-07-03",
       "event_name": "Smorgasburg",
-      "event_desc": "Open-air food market with dozens of local vendors. Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM, and Friday to Sunday in Central Park, 12:00 PM - 8:00 PM. The World Trade Center market has closed for the season.",
+      "event_desc": "Open-air food market with dozens of local vendors. Friday to Sunday in Central Park, 12:00 PM - 8:00 PM; Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM. The World Trade Center market has closed for the season.",
       "event_location": "Multiple NYC locations: Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY; Central Park, 36 Central Park W, New York, NY",
       "more_info": "official page: https://www.smorgasburg.com/"
     },
@@ -1063,7 +1063,7 @@
       "event_id": 51,
       "event_date": "2026-07-10",
       "event_name": "Smorgasburg",
-      "event_desc": "Open-air food market with dozens of local vendors. Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM, and Friday to Sunday in Central Park, 12:00 PM - 8:00 PM. The World Trade Center market has closed for the season.",
+      "event_desc": "Open-air food market with dozens of local vendors. Friday to Sunday in Central Park, 12:00 PM - 8:00 PM; Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM. The World Trade Center market has closed for the season.",
       "event_location": "Multiple NYC locations: Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY; Central Park, 36 Central Park W, New York, NY",
       "more_info": "official page: https://www.smorgasburg.com/"
     },
@@ -1071,7 +1071,7 @@
       "event_id": 51,
       "event_date": "2026-07-17",
       "event_name": "Smorgasburg",
-      "event_desc": "Open-air food market with dozens of local vendors. Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM, and Friday to Sunday in Central Park, 12:00 PM - 8:00 PM. The World Trade Center market has closed for the season.",
+      "event_desc": "Open-air food market with dozens of local vendors. Friday to Sunday in Central Park, 12:00 PM - 8:00 PM; Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM. The World Trade Center market has closed for the season.",
       "event_location": "Multiple NYC locations: Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY; Central Park, 36 Central Park W, New York, NY",
       "more_info": "official page: https://www.smorgasburg.com/"
     },
@@ -1079,7 +1079,7 @@
       "event_id": 51,
       "event_date": "2026-07-24",
       "event_name": "Smorgasburg",
-      "event_desc": "Open-air food market with dozens of local vendors. Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM, and Friday to Sunday in Central Park, 12:00 PM - 8:00 PM. The World Trade Center market has closed for the season.",
+      "event_desc": "Open-air food market with dozens of local vendors. Friday to Sunday in Central Park, 12:00 PM - 8:00 PM; Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM. The World Trade Center market has closed for the season.",
       "event_location": "Multiple NYC locations: Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY; Central Park, 36 Central Park W, New York, NY",
       "more_info": "official page: https://www.smorgasburg.com/"
     },
@@ -1087,7 +1087,7 @@
       "event_id": 51,
       "event_date": "2026-07-31",
       "event_name": "Smorgasburg",
-      "event_desc": "Open-air food market with dozens of local vendors. Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM, and Friday to Sunday in Central Park, 12:00 PM - 8:00 PM. The World Trade Center market has closed for the season.",
+      "event_desc": "Open-air food market with dozens of local vendors. Friday to Sunday in Central Park, 12:00 PM - 8:00 PM; Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM. The World Trade Center market has closed for the season.",
       "event_location": "Multiple NYC locations: Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY; Central Park, 36 Central Park W, New York, NY",
       "more_info": "official page: https://www.smorgasburg.com/"
     },
@@ -1095,7 +1095,7 @@
       "event_id": 51,
       "event_date": "2026-08-07",
       "event_name": "Smorgasburg",
-      "event_desc": "Open-air food market with dozens of local vendors. Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM, and Friday to Sunday in Central Park, 12:00 PM - 8:00 PM. The World Trade Center market has closed for the season.",
+      "event_desc": "Open-air food market with dozens of local vendors. Friday to Sunday in Central Park, 12:00 PM - 8:00 PM; Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM. The World Trade Center market has closed for the season.",
       "event_location": "Multiple NYC locations: Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY; Central Park, 36 Central Park W, New York, NY",
       "more_info": "official page: https://www.smorgasburg.com/"
     },
@@ -1103,7 +1103,7 @@
       "event_id": 51,
       "event_date": "2026-08-14",
       "event_name": "Smorgasburg",
-      "event_desc": "Open-air food market with dozens of local vendors. Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM, and Friday to Sunday in Central Park, 12:00 PM - 8:00 PM. The World Trade Center market has closed for the season.",
+      "event_desc": "Open-air food market with dozens of local vendors. Friday to Sunday in Central Park, 12:00 PM - 8:00 PM; Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM. The World Trade Center market has closed for the season.",
       "event_location": "Multiple NYC locations: Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY; Central Park, 36 Central Park W, New York, NY",
       "more_info": "official page: https://www.smorgasburg.com/"
     },
@@ -1111,7 +1111,7 @@
       "event_id": 51,
       "event_date": "2026-08-21",
       "event_name": "Smorgasburg",
-      "event_desc": "Open-air food market with dozens of local vendors. Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM, and Friday to Sunday in Central Park, 12:00 PM - 8:00 PM. The World Trade Center market has closed for the season.",
+      "event_desc": "Open-air food market with dozens of local vendors. Friday to Sunday in Central Park, 12:00 PM - 8:00 PM; Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM. The World Trade Center market has closed for the season.",
       "event_location": "Multiple NYC locations: Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY; Central Park, 36 Central Park W, New York, NY",
       "more_info": "official page: https://www.smorgasburg.com/"
     },
@@ -1119,7 +1119,7 @@
       "event_id": 51,
       "event_date": "2026-08-28",
       "event_name": "Smorgasburg",
-      "event_desc": "Open-air food market with dozens of local vendors. Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM, and Friday to Sunday in Central Park, 12:00 PM - 8:00 PM. The World Trade Center market has closed for the season.",
+      "event_desc": "Open-air food market with dozens of local vendors. Friday to Sunday in Central Park, 12:00 PM - 8:00 PM; Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM. The World Trade Center market has closed for the season.",
       "event_location": "Multiple NYC locations: Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY; Central Park, 36 Central Park W, New York, NY",
       "more_info": "official page: https://www.smorgasburg.com/"
     },
@@ -1127,7 +1127,7 @@
       "event_id": 51,
       "event_date": "2026-09-04",
       "event_name": "Smorgasburg",
-      "event_desc": "Open-air food market with dozens of local vendors. Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM, and Friday to Sunday in Central Park, 12:00 PM - 8:00 PM. The World Trade Center market has closed for the season.",
+      "event_desc": "Open-air food market with dozens of local vendors. Friday to Sunday in Central Park, 12:00 PM - 8:00 PM; Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM. The World Trade Center market has closed for the season.",
       "event_location": "Multiple NYC locations: Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY; Central Park, 36 Central Park W, New York, NY",
       "more_info": "official page: https://www.smorgasburg.com/"
     },
@@ -1135,7 +1135,7 @@
       "event_id": 51,
       "event_date": "2026-09-11",
       "event_name": "Smorgasburg",
-      "event_desc": "Open-air food market with dozens of local vendors. Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM, and Friday to Sunday in Central Park, 12:00 PM - 8:00 PM. The World Trade Center market has closed for the season.",
+      "event_desc": "Open-air food market with dozens of local vendors. Friday to Sunday in Central Park, 12:00 PM - 8:00 PM; Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM. The World Trade Center market has closed for the season.",
       "event_location": "Multiple NYC locations: Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY; Central Park, 36 Central Park W, New York, NY",
       "more_info": "official page: https://www.smorgasburg.com/"
     },
@@ -1143,7 +1143,7 @@
       "event_id": 51,
       "event_date": "2026-09-18",
       "event_name": "Smorgasburg",
-      "event_desc": "Open-air food market with dozens of local vendors. Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM, and Friday to Sunday in Central Park, 12:00 PM - 8:00 PM. The World Trade Center market has closed for the season.",
+      "event_desc": "Open-air food market with dozens of local vendors. Friday to Sunday in Central Park, 12:00 PM - 8:00 PM; Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM. The World Trade Center market has closed for the season.",
       "event_location": "Multiple NYC locations: Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY; Central Park, 36 Central Park W, New York, NY",
       "more_info": "official page: https://www.smorgasburg.com/"
     },
@@ -1151,7 +1151,7 @@
       "event_id": 51,
       "event_date": "2026-09-25",
       "event_name": "Smorgasburg",
-      "event_desc": "Open-air food market with dozens of local vendors. Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM, and Friday to Sunday in Central Park, 12:00 PM - 8:00 PM. The World Trade Center market has closed for the season.",
+      "event_desc": "Open-air food market with dozens of local vendors. Friday to Sunday in Central Park, 12:00 PM - 8:00 PM; Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM. The World Trade Center market has closed for the season.",
       "event_location": "Multiple NYC locations: Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY; Central Park, 36 Central Park W, New York, NY",
       "more_info": "official page: https://www.smorgasburg.com/"
     },
@@ -1159,7 +1159,7 @@
       "event_id": 51,
       "event_date": "2026-10-02",
       "event_name": "Smorgasburg",
-      "event_desc": "Open-air food market with dozens of local vendors. Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM, and Friday to Sunday in Central Park, 12:00 PM - 8:00 PM. The World Trade Center market has closed for the season.",
+      "event_desc": "Open-air food market with dozens of local vendors. Friday to Sunday in Central Park, 12:00 PM - 8:00 PM; Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM. The World Trade Center market has closed for the season.",
       "event_location": "Multiple NYC locations: Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY; Central Park, 36 Central Park W, New York, NY",
       "more_info": "official page: https://www.smorgasburg.com/"
     },
@@ -1167,7 +1167,7 @@
       "event_id": 51,
       "event_date": "2026-10-09",
       "event_name": "Smorgasburg",
-      "event_desc": "Open-air food market with dozens of local vendors. Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM, and Friday to Sunday in Central Park, 12:00 PM - 8:00 PM. The World Trade Center market has closed for the season.",
+      "event_desc": "Open-air food market with dozens of local vendors. Friday to Sunday in Central Park, 12:00 PM - 8:00 PM; Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM. The World Trade Center market has closed for the season.",
       "event_location": "Multiple NYC locations: Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY; Central Park, 36 Central Park W, New York, NY",
       "more_info": "official page: https://www.smorgasburg.com/"
     },
@@ -1175,7 +1175,7 @@
       "event_id": 51,
       "event_date": "2026-10-16",
       "event_name": "Smorgasburg",
-      "event_desc": "Open-air food market with dozens of local vendors. Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM, and Friday to Sunday in Central Park, 12:00 PM - 8:00 PM. The World Trade Center market has closed for the season.",
+      "event_desc": "Open-air food market with dozens of local vendors. Friday to Sunday in Central Park, 12:00 PM - 8:00 PM; Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM. The World Trade Center market has closed for the season.",
       "event_location": "Multiple NYC locations: Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY; Central Park, 36 Central Park W, New York, NY",
       "more_info": "official page: https://www.smorgasburg.com/"
     },
@@ -1183,7 +1183,7 @@
       "event_id": 51,
       "event_date": "2026-10-23",
       "event_name": "Smorgasburg",
-      "event_desc": "Open-air food market with dozens of local vendors. Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM, and Friday to Sunday in Central Park, 12:00 PM - 8:00 PM. The World Trade Center market has closed for the season.",
+      "event_desc": "Open-air food market with dozens of local vendors. Friday to Sunday in Central Park, 12:00 PM - 8:00 PM; Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM. The World Trade Center market has closed for the season.",
       "event_location": "Multiple NYC locations: Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY; Central Park, 36 Central Park W, New York, NY",
       "more_info": "official page: https://www.smorgasburg.com/"
     },
@@ -1191,7 +1191,7 @@
       "event_id": 51,
       "event_date": "2026-10-30",
       "event_name": "Smorgasburg",
-      "event_desc": "Open-air food market with dozens of local vendors. Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM, and Friday to Sunday in Central Park, 12:00 PM - 8:00 PM. The World Trade Center market has closed for the season.",
+      "event_desc": "Open-air food market with dozens of local vendors. Friday to Sunday in Central Park, 12:00 PM - 8:00 PM; Saturdays in Williamsburg and Sundays in Prospect Park, 11:00 AM - 6:00 PM. The World Trade Center market has closed for the season.",
       "event_location": "Multiple NYC locations: Marsha P. Johnson State Park, 90 Kent Ave, Brooklyn, NY; Prospect Park, Brooklyn, NY; Central Park, 36 Central Park W, New York, NY",
       "more_info": "official page: https://www.smorgasburg.com/"
     },
@@ -1431,7 +1431,7 @@
       "event_id": 53,
       "event_date": "Summer 2026 (dates TBA)",
       "event_name": "NYC Restaurant Week (Summer 2026)",
-      "event_desc": "Official citywide summer prix-fixe dining program. The official NYC Restaurant Week site confirms a Summer 2026 return, but exact dates have not yet been posted.",
+      "event_desc": "Official citywide summer prix-fixe dining program.",
       "event_location": "Various participating restaurants across New York City",
       "more_info": "official page: https://www.nyctourism.com/restaurant-week/"
     },
@@ -1439,7 +1439,7 @@
       "event_id": 54,
       "event_date": "Various dates in 2026 (3-day runs, Tuesday-Thursday)",
       "event_name": "Ops Guest Pizza Series",
-      "event_desc": "Verified 2026 guest pizza collaboration series at Ops East Village; official Instagram confirms ongoing guest-pizza runs in 2026.",
+      "event_desc": "Guest pizza collaborations at Ops East Village, each a 3-day run from Tuesday to Thursday.",
       "event_location": "Ops East Village, 176 2nd Ave, New York, NY 10003",
       "more_info": "official page: https://www.opsbk.com/east-village"
     },
@@ -1578,6 +1578,358 @@
       "event_desc": "10:00 AM - 6:00 PM; Japanese street food festival.",
       "event_location": "Upper East Side, New York, NY",
       "more_info": "official page: https://www.japanfes.com/new-blog/2026/sep-19-ues"
+    },
+    {
+      "event_id": 72,
+      "event_date": "2027-05-29",
+      "event_name": "Rib King NYC 2027",
+      "event_desc": "BBQ competition from the producers of Brisket King, where teams compete for the Rib King title on Memorial Day weekend. Saturday, May 29, 2027; the Brooklyn venue and times have not been announced.",
+      "event_location": "Venue TBA, Brooklyn, NY",
+      "more_info": "official page: https://ribkingnyc.com/"
+    },
+    {
+      "event_id": 55,
+      "event_date": "2027-01-19",
+      "event_name": "NYC Restaurant Week (Winter 2027)",
+      "event_desc": "Citywide prix-fixe dining program with 2-course lunches and 3-course dinners at $30, $45, and $60 at hundreds of restaurants. Runs Jan 19 to Feb 11, 2027; Saturdays are excluded and Sundays are optional. Reservations open Jan 6 at 10 AM.",
+      "event_location": "Various participating restaurants across New York City",
+      "more_info": "official page: https://www.nyctourism.com/restaurant-week/"
+    },
+    {
+      "event_id": 55,
+      "event_date": "2027-01-20",
+      "event_name": "NYC Restaurant Week (Winter 2027)",
+      "event_desc": "Citywide prix-fixe dining program with 2-course lunches and 3-course dinners at $30, $45, and $60 at hundreds of restaurants. Runs Jan 19 to Feb 11, 2027; Saturdays are excluded and Sundays are optional. Reservations open Jan 6 at 10 AM.",
+      "event_location": "Various participating restaurants across New York City",
+      "more_info": "official page: https://www.nyctourism.com/restaurant-week/"
+    },
+    {
+      "event_id": 55,
+      "event_date": "2027-01-21",
+      "event_name": "NYC Restaurant Week (Winter 2027)",
+      "event_desc": "Citywide prix-fixe dining program with 2-course lunches and 3-course dinners at $30, $45, and $60 at hundreds of restaurants. Runs Jan 19 to Feb 11, 2027; Saturdays are excluded and Sundays are optional. Reservations open Jan 6 at 10 AM.",
+      "event_location": "Various participating restaurants across New York City",
+      "more_info": "official page: https://www.nyctourism.com/restaurant-week/"
+    },
+    {
+      "event_id": 55,
+      "event_date": "2027-01-22",
+      "event_name": "NYC Restaurant Week (Winter 2027)",
+      "event_desc": "Citywide prix-fixe dining program with 2-course lunches and 3-course dinners at $30, $45, and $60 at hundreds of restaurants. Runs Jan 19 to Feb 11, 2027; Saturdays are excluded and Sundays are optional. Reservations open Jan 6 at 10 AM.",
+      "event_location": "Various participating restaurants across New York City",
+      "more_info": "official page: https://www.nyctourism.com/restaurant-week/"
+    },
+    {
+      "event_id": 55,
+      "event_date": "2027-01-24",
+      "event_name": "NYC Restaurant Week (Winter 2027)",
+      "event_desc": "Citywide prix-fixe dining program with 2-course lunches and 3-course dinners at $30, $45, and $60 at hundreds of restaurants. Runs Jan 19 to Feb 11, 2027; Saturdays are excluded and Sundays are optional. Reservations open Jan 6 at 10 AM.",
+      "event_location": "Various participating restaurants across New York City",
+      "more_info": "official page: https://www.nyctourism.com/restaurant-week/"
+    },
+    {
+      "event_id": 55,
+      "event_date": "2027-01-25",
+      "event_name": "NYC Restaurant Week (Winter 2027)",
+      "event_desc": "Citywide prix-fixe dining program with 2-course lunches and 3-course dinners at $30, $45, and $60 at hundreds of restaurants. Runs Jan 19 to Feb 11, 2027; Saturdays are excluded and Sundays are optional. Reservations open Jan 6 at 10 AM.",
+      "event_location": "Various participating restaurants across New York City",
+      "more_info": "official page: https://www.nyctourism.com/restaurant-week/"
+    },
+    {
+      "event_id": 55,
+      "event_date": "2027-01-26",
+      "event_name": "NYC Restaurant Week (Winter 2027)",
+      "event_desc": "Citywide prix-fixe dining program with 2-course lunches and 3-course dinners at $30, $45, and $60 at hundreds of restaurants. Runs Jan 19 to Feb 11, 2027; Saturdays are excluded and Sundays are optional. Reservations open Jan 6 at 10 AM.",
+      "event_location": "Various participating restaurants across New York City",
+      "more_info": "official page: https://www.nyctourism.com/restaurant-week/"
+    },
+    {
+      "event_id": 55,
+      "event_date": "2027-01-27",
+      "event_name": "NYC Restaurant Week (Winter 2027)",
+      "event_desc": "Citywide prix-fixe dining program with 2-course lunches and 3-course dinners at $30, $45, and $60 at hundreds of restaurants. Runs Jan 19 to Feb 11, 2027; Saturdays are excluded and Sundays are optional. Reservations open Jan 6 at 10 AM.",
+      "event_location": "Various participating restaurants across New York City",
+      "more_info": "official page: https://www.nyctourism.com/restaurant-week/"
+    },
+    {
+      "event_id": 55,
+      "event_date": "2027-01-28",
+      "event_name": "NYC Restaurant Week (Winter 2027)",
+      "event_desc": "Citywide prix-fixe dining program with 2-course lunches and 3-course dinners at $30, $45, and $60 at hundreds of restaurants. Runs Jan 19 to Feb 11, 2027; Saturdays are excluded and Sundays are optional. Reservations open Jan 6 at 10 AM.",
+      "event_location": "Various participating restaurants across New York City",
+      "more_info": "official page: https://www.nyctourism.com/restaurant-week/"
+    },
+    {
+      "event_id": 55,
+      "event_date": "2027-01-29",
+      "event_name": "NYC Restaurant Week (Winter 2027)",
+      "event_desc": "Citywide prix-fixe dining program with 2-course lunches and 3-course dinners at $30, $45, and $60 at hundreds of restaurants. Runs Jan 19 to Feb 11, 2027; Saturdays are excluded and Sundays are optional. Reservations open Jan 6 at 10 AM.",
+      "event_location": "Various participating restaurants across New York City",
+      "more_info": "official page: https://www.nyctourism.com/restaurant-week/"
+    },
+    {
+      "event_id": 55,
+      "event_date": "2027-01-31",
+      "event_name": "NYC Restaurant Week (Winter 2027)",
+      "event_desc": "Citywide prix-fixe dining program with 2-course lunches and 3-course dinners at $30, $45, and $60 at hundreds of restaurants. Runs Jan 19 to Feb 11, 2027; Saturdays are excluded and Sundays are optional. Reservations open Jan 6 at 10 AM.",
+      "event_location": "Various participating restaurants across New York City",
+      "more_info": "official page: https://www.nyctourism.com/restaurant-week/"
+    },
+    {
+      "event_id": 55,
+      "event_date": "2027-02-01",
+      "event_name": "NYC Restaurant Week (Winter 2027)",
+      "event_desc": "Citywide prix-fixe dining program with 2-course lunches and 3-course dinners at $30, $45, and $60 at hundreds of restaurants. Runs Jan 19 to Feb 11, 2027; Saturdays are excluded and Sundays are optional. Reservations open Jan 6 at 10 AM.",
+      "event_location": "Various participating restaurants across New York City",
+      "more_info": "official page: https://www.nyctourism.com/restaurant-week/"
+    },
+    {
+      "event_id": 55,
+      "event_date": "2027-02-02",
+      "event_name": "NYC Restaurant Week (Winter 2027)",
+      "event_desc": "Citywide prix-fixe dining program with 2-course lunches and 3-course dinners at $30, $45, and $60 at hundreds of restaurants. Runs Jan 19 to Feb 11, 2027; Saturdays are excluded and Sundays are optional. Reservations open Jan 6 at 10 AM.",
+      "event_location": "Various participating restaurants across New York City",
+      "more_info": "official page: https://www.nyctourism.com/restaurant-week/"
+    },
+    {
+      "event_id": 55,
+      "event_date": "2027-02-03",
+      "event_name": "NYC Restaurant Week (Winter 2027)",
+      "event_desc": "Citywide prix-fixe dining program with 2-course lunches and 3-course dinners at $30, $45, and $60 at hundreds of restaurants. Runs Jan 19 to Feb 11, 2027; Saturdays are excluded and Sundays are optional. Reservations open Jan 6 at 10 AM.",
+      "event_location": "Various participating restaurants across New York City",
+      "more_info": "official page: https://www.nyctourism.com/restaurant-week/"
+    },
+    {
+      "event_id": 55,
+      "event_date": "2027-02-04",
+      "event_name": "NYC Restaurant Week (Winter 2027)",
+      "event_desc": "Citywide prix-fixe dining program with 2-course lunches and 3-course dinners at $30, $45, and $60 at hundreds of restaurants. Runs Jan 19 to Feb 11, 2027; Saturdays are excluded and Sundays are optional. Reservations open Jan 6 at 10 AM.",
+      "event_location": "Various participating restaurants across New York City",
+      "more_info": "official page: https://www.nyctourism.com/restaurant-week/"
+    },
+    {
+      "event_id": 55,
+      "event_date": "2027-02-05",
+      "event_name": "NYC Restaurant Week (Winter 2027)",
+      "event_desc": "Citywide prix-fixe dining program with 2-course lunches and 3-course dinners at $30, $45, and $60 at hundreds of restaurants. Runs Jan 19 to Feb 11, 2027; Saturdays are excluded and Sundays are optional. Reservations open Jan 6 at 10 AM.",
+      "event_location": "Various participating restaurants across New York City",
+      "more_info": "official page: https://www.nyctourism.com/restaurant-week/"
+    },
+    {
+      "event_id": 55,
+      "event_date": "2027-02-07",
+      "event_name": "NYC Restaurant Week (Winter 2027)",
+      "event_desc": "Citywide prix-fixe dining program with 2-course lunches and 3-course dinners at $30, $45, and $60 at hundreds of restaurants. Runs Jan 19 to Feb 11, 2027; Saturdays are excluded and Sundays are optional. Reservations open Jan 6 at 10 AM.",
+      "event_location": "Various participating restaurants across New York City",
+      "more_info": "official page: https://www.nyctourism.com/restaurant-week/"
+    },
+    {
+      "event_id": 55,
+      "event_date": "2027-02-08",
+      "event_name": "NYC Restaurant Week (Winter 2027)",
+      "event_desc": "Citywide prix-fixe dining program with 2-course lunches and 3-course dinners at $30, $45, and $60 at hundreds of restaurants. Runs Jan 19 to Feb 11, 2027; Saturdays are excluded and Sundays are optional. Reservations open Jan 6 at 10 AM.",
+      "event_location": "Various participating restaurants across New York City",
+      "more_info": "official page: https://www.nyctourism.com/restaurant-week/"
+    },
+    {
+      "event_id": 55,
+      "event_date": "2027-02-09",
+      "event_name": "NYC Restaurant Week (Winter 2027)",
+      "event_desc": "Citywide prix-fixe dining program with 2-course lunches and 3-course dinners at $30, $45, and $60 at hundreds of restaurants. Runs Jan 19 to Feb 11, 2027; Saturdays are excluded and Sundays are optional. Reservations open Jan 6 at 10 AM.",
+      "event_location": "Various participating restaurants across New York City",
+      "more_info": "official page: https://www.nyctourism.com/restaurant-week/"
+    },
+    {
+      "event_id": 55,
+      "event_date": "2027-02-10",
+      "event_name": "NYC Restaurant Week (Winter 2027)",
+      "event_desc": "Citywide prix-fixe dining program with 2-course lunches and 3-course dinners at $30, $45, and $60 at hundreds of restaurants. Runs Jan 19 to Feb 11, 2027; Saturdays are excluded and Sundays are optional. Reservations open Jan 6 at 10 AM.",
+      "event_location": "Various participating restaurants across New York City",
+      "more_info": "official page: https://www.nyctourism.com/restaurant-week/"
+    },
+    {
+      "event_id": 55,
+      "event_date": "2027-02-11",
+      "event_name": "NYC Restaurant Week (Winter 2027)",
+      "event_desc": "Citywide prix-fixe dining program with 2-course lunches and 3-course dinners at $30, $45, and $60 at hundreds of restaurants. Runs Jan 19 to Feb 11, 2027; Saturdays are excluded and Sundays are optional. Reservations open Jan 6 at 10 AM.",
+      "event_location": "Various participating restaurants across New York City",
+      "more_info": "official page: https://www.nyctourism.com/restaurant-week/"
+    },
+    {
+      "event_id": 61,
+      "event_date": "2027-03-06",
+      "event_name": "NYC Winter Wine & Food Festival® 2027",
+      "event_desc": "The 15th annual wine and food tasting festival from Crush Wine Experiences, in two sessions on Saturday, Mar 6, 2027: 1:00 PM - 4:00 PM and 5:00 PM - 8:00 PM.",
+      "event_location": "Grand Hall at St. Mary's, 440 Grand St, Lower East Side, New York, NY 10002",
+      "more_info": "official page: https://crushwinexp.com/wine-events/nyc-winter-wine-food-festival/"
+    },
+    {
+      "event_id": 66,
+      "event_date": "2027-05-01",
+      "event_name": "NYC Hot Sauce Expo 2027",
+      "event_desc": "The 14th annual hot sauce and spicy food expo with dozens of exhibitors, 10:00 AM - 6:00 PM on Saturday, May 1 and Sunday, May 2, 2027.",
+      "event_location": "Industry City, 51 34th St, Brooklyn, NY 11232",
+      "more_info": "official page: https://www.nychotsauceexpo.com/; registration: https://hotsauceexpo.ticketspice.com/14th-annual-nyc-hot-sauce-expo"
+    },
+    {
+      "event_id": 66,
+      "event_date": "2027-05-02",
+      "event_name": "NYC Hot Sauce Expo 2027",
+      "event_desc": "The 14th annual hot sauce and spicy food expo with dozens of exhibitors, 10:00 AM - 6:00 PM on Saturday, May 1 and Sunday, May 2, 2027.",
+      "event_location": "Industry City, 51 34th St, Brooklyn, NY 11232",
+      "more_info": "official page: https://www.nychotsauceexpo.com/; registration: https://hotsauceexpo.ticketspice.com/14th-annual-nyc-hot-sauce-expo"
+    },
+    {
+      "event_id": 78,
+      "event_date": "2027-08-28",
+      "event_name": "Pig Island NYC (2027)",
+      "event_desc": "All-inclusive pork and barbecue festival, in its 18th year, on Saturday, Aug 28, 2027. The 2027 venue and times have not been announced; recent editions were at Snug Harbor on Staten Island.",
+      "event_location": "Venue TBA, New York, NY",
+      "more_info": "official page: https://pigisland.com/"
+    },
+    {
+      "event_id": 79,
+      "event_date": "2027-09-12",
+      "event_name": "Ferragosto 2027 (Bronx Little Italy)",
+      "event_desc": "Street festival on Arthur Avenue in the Bronx's Little Italy. Sunday, Sep 12, 2027, 12:00 PM - 6:00 PM, rain or shine.",
+      "event_location": "Arthur Ave between E 187th St and Crescent Ave, Bronx, NY",
+      "more_info": "official page: https://bronxlittleitaly.com/ferragostoinfo/"
+    },
+    {
+      "event_id": 81,
+      "event_date": "2027-09-18",
+      "event_name": "Latin Food Festival NYC (Latin Food Fest) 2027",
+      "event_desc": "Latin food and drink festival for Hispanic Heritage Month, with weekends in different New York neighborhoods. The first two are Saturday, Sep 18 and Saturday, Sep 25, 2027, with venues to be announced and more October dates to come. Free with RSVP; dates are subject to final permits.",
+      "event_location": "Venue TBA, New York, NY",
+      "more_info": "official page: https://www.thelatinfoodfest.com/nyc"
+    },
+    {
+      "event_id": 81,
+      "event_date": "2027-09-25",
+      "event_name": "Latin Food Festival NYC (Latin Food Fest) 2027",
+      "event_desc": "Latin food and drink festival for Hispanic Heritage Month, with weekends in different New York neighborhoods. The first two are Saturday, Sep 18 and Saturday, Sep 25, 2027, with venues to be announced and more October dates to come. Free with RSVP; dates are subject to final permits.",
+      "event_location": "Venue TBA, New York, NY",
+      "more_info": "official page: https://www.thelatinfoodfest.com/nyc"
+    },
+    {
+      "event_id": 84,
+      "event_date": "2027-10-14",
+      "event_name": "New York City Wine & Food Festival (NYCWFF) 2027",
+      "event_desc": "The festival's 20th anniversary: four days of tastings, dinners and chef events from Thursday, Oct 14 to Sunday, Oct 17, 2027, benefiting the James Beard Foundation and Event Zero.",
+      "event_location": "Seaport neighborhood, Lower Manhattan, New York, NY",
+      "more_info": "official page: https://nycwff.org/"
+    },
+    {
+      "event_id": 84,
+      "event_date": "2027-10-15",
+      "event_name": "New York City Wine & Food Festival (NYCWFF) 2027",
+      "event_desc": "The festival's 20th anniversary: four days of tastings, dinners and chef events from Thursday, Oct 14 to Sunday, Oct 17, 2027, benefiting the James Beard Foundation and Event Zero.",
+      "event_location": "Seaport neighborhood, Lower Manhattan, New York, NY",
+      "more_info": "official page: https://nycwff.org/"
+    },
+    {
+      "event_id": 84,
+      "event_date": "2027-10-16",
+      "event_name": "New York City Wine & Food Festival (NYCWFF) 2027",
+      "event_desc": "The festival's 20th anniversary: four days of tastings, dinners and chef events from Thursday, Oct 14 to Sunday, Oct 17, 2027, benefiting the James Beard Foundation and Event Zero.",
+      "event_location": "Seaport neighborhood, Lower Manhattan, New York, NY",
+      "more_info": "official page: https://nycwff.org/"
+    },
+    {
+      "event_id": 84,
+      "event_date": "2027-10-17",
+      "event_name": "New York City Wine & Food Festival (NYCWFF) 2027",
+      "event_desc": "The festival's 20th anniversary: four days of tastings, dinners and chef events from Thursday, Oct 14 to Sunday, Oct 17, 2027, benefiting the James Beard Foundation and Event Zero.",
+      "event_location": "Seaport neighborhood, Lower Manhattan, New York, NY",
+      "more_info": "official page: https://nycwff.org/"
+    },
+    {
+      "event_id": 111,
+      "event_date": "2026-12-05",
+      "event_name": "Edible Island at Snug Harbor's Holiday Hop",
+      "event_desc": "Free holiday food fair with sweet and savory specialty foods and artisanal goods, part of Snug Harbor's Holiday Hop. Saturday, Dec 5, 2026, 11:00 AM - 4:00 PM.",
+      "event_location": "Staten Island Museum at Snug Harbor, 1000 Richmond Terrace, Building A, Staten Island, NY 10301",
+      "more_info": "official page: https://www.statenislandmuseum.org/event/edible-island-part-of-the-holiday-hop/"
+    },
+    {
+      "event_id": 110,
+      "event_date": "2026-12-07",
+      "event_name": "International Food Expo by Queens Together",
+      "event_desc": "Walk-around tasting with unlimited bites from dozens of Queens restaurants, plus beer, wine and cocktail samples and live music, benefiting Queens Together. Monday, Dec 7, 2026, 6:00 PM - 8:30 PM. Tickets $75 through Nov 22, then $100; kids 12 and under get in at no charge with a parent.",
+      "event_location": "New York Hall of Science, 47-01 111th St, Corona, Queens, NY 11368",
+      "more_info": "official page: https://www.queenstogether.org/2026-international-food-expo"
+    },
+    {
+      "event_id": 112,
+      "event_date": "2026-12-09",
+      "event_name": "The Great Chanukah Doughnut Duel 2026",
+      "event_desc": "Bakeries compete with their best sufganiyot, the Chanukah jelly doughnut, and guests taste every one and vote for a winner. Wednesday, Dec 9, 2026, 7:00 PM - 9:00 PM. 21+, $36.",
+      "event_location": "Moxy Brooklyn Williamsburg, 353 Bedford Ave, Brooklyn, NY 11211",
+      "more_info": "official page: https://www.theneighborhoodbk.org/event-details/the-great-chanukah-doughnut-duel-2026"
+    },
+    {
+      "event_id": 113,
+      "event_date": "2026-12-11",
+      "event_name": "La Tablée Tasting",
+      "event_desc": "Walk-around tasting of nearly 100 Rhône wines with small bites from New York restaurants, part of the La Tablée NYC festival. Friday, Dec 11, 2026, 5:00 PM - 7:30 PM. $195 plus tax.",
+      "event_location": "Lightning Society, 45 Howard St, SoHo, New York, NY 10013",
+      "more_info": "official page: https://www.latableenyc.com/tablee-tasting-2026"
+    },
+    {
+      "event_id": 114,
+      "event_date": "2027-03-14",
+      "event_name": "Brooklyn SeltzerFest 2027",
+      "event_desc": "The 4th SeltzerFest from the Brooklyn Seltzer Museum, with seltzer tastings, an Egg Cream Invitational and family activities. Sunday, Mar 14, 2027, 11:00 AM - 5:00 PM. Tickets from $45; ages 5 to 17 $10.",
+      "event_location": "Industry City, 51 34th St, 1st floor, Brooklyn, NY 11232",
+      "more_info": "official page: https://brooklynseltzermuseum.org/seltzerfest/"
+    },
+    {
+      "event_id": 107,
+      "event_date": "2027-05-08",
+      "event_name": "Ramen Matsuri New York 2027",
+      "event_desc": "A weekend of ramen from shops visiting from Japan, presented by JAPAN Fes. Saturday, May 8 and Sunday, May 9, 2027; the Manhattan venue has not been announced.",
+      "event_location": "Venue TBA, Manhattan, New York, NY",
+      "more_info": "official page: https://www.japanfes.com/ramen-matsuri"
+    },
+    {
+      "event_id": 107,
+      "event_date": "2027-05-09",
+      "event_name": "Ramen Matsuri New York 2027",
+      "event_desc": "A weekend of ramen from shops visiting from Japan, presented by JAPAN Fes. Saturday, May 8 and Sunday, May 9, 2027; the Manhattan venue has not been announced.",
+      "event_location": "Venue TBA, Manhattan, New York, NY",
+      "more_info": "official page: https://www.japanfes.com/ramen-matsuri"
+    },
+    {
+      "event_id": 108,
+      "event_date": "2027-06-26",
+      "event_name": "Konamon Matsuri New York 2027",
+      "event_desc": "A weekend of konamon, Japan's flour-based street foods such as takoyaki and okonomiyaki, presented by JAPAN Fes. Saturday, Jun 26 and Sunday, Jun 27, 2027; the Manhattan venue has not been announced.",
+      "event_location": "Venue TBA, Manhattan, New York, NY",
+      "more_info": "official page: https://www.japanfes.com/konamon-matsuri"
+    },
+    {
+      "event_id": 108,
+      "event_date": "2027-06-27",
+      "event_name": "Konamon Matsuri New York 2027",
+      "event_desc": "A weekend of konamon, Japan's flour-based street foods such as takoyaki and okonomiyaki, presented by JAPAN Fes. Saturday, Jun 26 and Sunday, Jun 27, 2027; the Manhattan venue has not been announced.",
+      "event_location": "Venue TBA, Manhattan, New York, NY",
+      "more_info": "official page: https://www.japanfes.com/konamon-matsuri"
+    },
+    {
+      "event_id": 109,
+      "event_date": "2027-07-17",
+      "event_name": "Niku Matsuri New York 2027",
+      "event_desc": "A weekend of Japanese meat dishes, presented by JAPAN Fes. Saturday, Jul 17 and Sunday, Jul 18, 2027; the Manhattan venue has not been announced.",
+      "event_location": "Venue TBA, Manhattan, New York, NY",
+      "more_info": "official page: https://www.japanfes.com/niku-matsuri"
+    },
+    {
+      "event_id": 109,
+      "event_date": "2027-07-18",
+      "event_name": "Niku Matsuri New York 2027",
+      "event_desc": "A weekend of Japanese meat dishes, presented by JAPAN Fes. Saturday, Jul 17 and Sunday, Jul 18, 2027; the Manhattan venue has not been announced.",
+      "event_location": "Venue TBA, Manhattan, New York, NY",
+      "more_info": "official page: https://www.japanfes.com/niku-matsuri"
     }
   ]
 }
