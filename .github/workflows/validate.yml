@@ -1,4 +1,5 @@
-# Validate every push by parsing docs/v1/events.json. Catches a typo'd
+# Validate every push by parsing docs/v1/events.json (and, once it exists,
+# docs/v1/restaurant_closures.json). Catches a typo'd
 # direct web-UI edit before the broken payload reaches iOS clients.
 name: validate
 
@@ -42,4 +43,41 @@ jobs:
                   print(f"FAIL: events[{i}].event_id is not int: {ev['event_id']!r}", file=sys.stderr)
                   sys.exit(1)
           print(f"OK — {len(env['events'])} events validated.")
+          PY
+      - name: Validate restaurant_closures.json (when present)
+        run: |
+          if [ ! -f docs/v1/restaurant_closures.json ]; then
+            echo "no docs/v1/restaurant_closures.json yet; skipping"
+            exit 0
+          fi
+          python <<'PY'
+          import datetime, json, sys
+          with open("docs/v1/restaurant_closures.json") as f:
+              env = json.load(f)
+          missing = [k for k in ("schema_version", "generated_at", "closures") if k not in env]
+          if missing:
+              print(f"FAIL: missing top-level key(s): {missing}", file=sys.stderr)
+              sys.exit(1)
+          if env["schema_version"] != 1:
+              print(f"FAIL: schema_version != 1 (got {env['schema_version']})", file=sys.stderr)
+              sys.exit(1)
+          seen = set()
+          for i, c in enumerate(env["closures"]):
+              for k in ("restaurant_id", "name", "closed_on"):
+                  if k not in c:
+                      print(f"FAIL: closures[{i}] missing key {k!r}", file=sys.stderr)
+                      sys.exit(1)
+              if not isinstance(c["restaurant_id"], int) or c["restaurant_id"] in seen:
+                  print(f"FAIL: closures[{i}].restaurant_id is not a unique int: {c['restaurant_id']!r}", file=sys.stderr)
+                  sys.exit(1)
+              seen.add(c["restaurant_id"])
+              if not str(c["name"]).strip():
+                  print(f"FAIL: closures[{i}].name is empty", file=sys.stderr)
+                  sys.exit(1)
+              try:
+                  datetime.date.fromisoformat(c["closed_on"])
+              except (TypeError, ValueError):
+                  print(f"FAIL: closures[{i}].closed_on is not an ISO date: {c['closed_on']!r}", file=sys.stderr)
+                  sys.exit(1)
+          print(f"OK, {len(env['closures'])} closures validated.")
           PY
